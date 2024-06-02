@@ -1,1 +1,1 @@
-Here i will add the scripts for data processing in gnuplot
+Here i will add the scripts (automatically) for data processing in gnuplot
