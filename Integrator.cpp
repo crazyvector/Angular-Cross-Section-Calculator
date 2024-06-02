@@ -183,7 +183,7 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
         }
         CoordinatesFile.close();
     } else {
-        cerr << "Unable to open file for writing!" << endl;
+        cerr << "Unable to open coordinates file for writing!" << endl;
     }
 
     //fit quadratic using gnuplot
@@ -196,7 +196,7 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
     ifstream CoefficientsFile("Resources/Data/coefficients_" + inputFileName + ".txt");
 
     if (!CoefficientsFile) {
-        cerr << "Could not open the input file!" << endl;
+        cerr << "Could not open the coefficients file!" << endl;
         return;
     }
 
@@ -237,7 +237,7 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
         OutputFile << inputFileName << " " << Energy << " " << integrala << endl;
         OutputFile.close();
     } else {
-        cerr << "Unable to open file for writing!" << endl;
+        cerr << "Unable to open output file for writing!" << endl;
     }
 }
 
