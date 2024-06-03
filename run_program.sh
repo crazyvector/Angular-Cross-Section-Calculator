@@ -3,8 +3,8 @@
 # Navighează în folderul Resources/Spectre
 cd "Resources/Spectre" || exit
 
-# Iterează prin toate fișierele .amplitude1 din folderul curent
-for f in *.amplitude1; do
+# Iterează prin toate fișierele .amplitude1 și .amplitude2 din folderul curent
+for f in *.amplitude1 *.amplitude2; do
 
     echo ""
     echo "--------------------------------------------------------------------------------"
