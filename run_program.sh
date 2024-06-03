@@ -15,17 +15,30 @@ for f in *.amplitude1 *.amplitude2; do
     # Navighează înapoi în folderul Resources
     cd ../ || exit
 
-    # Citeste parametrii din fișierul de input
-    read -r param2 param3 param4 param5 param6 param7 param8 < InputFile.txt
+    # Initializează variabila de control pentru a verifica dacă s-au găsit parametrii
+    found_params=false
 
-    # Verifică dacă s-au citit corect parametrii
-    if [ -z "$param2" ] || [ -z "$param3" ] || [ -z "$param4" ] || [ -z "$param5" ] || [ -z "$param6" ] || [ -z "$param7" ] || [ -z "$param8" ]; then
-        echo "Eroare: Nu s-au putut citi toți parametrii din fișierul de input."
-        continue
-    fi
+    # Citeste parametrii corespunzători din fișierul de input
+    while IFS= read -r line; do
+        read -r name param2 param3 param4 param5 param6 param7 param8 <<< "$line"
+        if [ "$name" == "$f" ]; then
+            found_params=true
+            break
+        fi
+    done < InputFile.txt
 
     # Navighează înapoi în folderul principal
     cd ../ || exit
+
+    # Verifică dacă s-au găsit parametrii
+    if [ "$found_params" = false ]; then
+        echo "Eroare: Nu s-au găsit parametrii pentru spectrul $spectrum_name."
+        ./Integrator "$f"
+
+        # Navighează în folderul Resources/Spectre
+        cd "Resources/Spectre" || exit
+        continue
+    fi
 
     # Rulează programul pentru fișierul curent cu parametrii corespunzători
     ./Integrator "$f" "$param2" "$param3" "$param4" "$param5" "$param6" "$param7" "$param8"
