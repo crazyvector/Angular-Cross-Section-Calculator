@@ -8,7 +8,7 @@ It will be the same for cross-section calculations. One file for each detector, 
 
 -------------------------------------------------------------------------------------------------------------------
 
-We have added .sh scripts for running the program on Linux and .bat scripts for Windows.
+We have added .sh scripts for running the program on Linux.
 
 -------------------------------------------------------------------------------------------------------------------
 
