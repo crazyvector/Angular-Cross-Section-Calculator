@@ -1,0 +1,5920 @@
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run001_7000
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .............Done.
+  Running time: 1785 s
+  Valid events:     D1: 480250 counts (269.048 cps)
+                    D2: 736525 counts (412.619 cps)
+  Discarded events: D1: 1119 counts
+                    D2: 2722 counts
+  Beam integrator (D3): 54798 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run002_7000_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 567 s
+  Valid events:     D1: 50902 counts (89.7743 cps)
+                    D2: 37776 counts (66.6243 cps)
+  Discarded events: D1: 38 counts
+                    D2: 27 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run003_6950
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....................................Done.
+  Running time: 1852 s
+  Valid events:     D1: 1174402 counts (634.126 cps)
+                    D2: 2248575 counts (1214.13 cps)
+  Discarded events: D1: 6736 counts
+                    D2: 24907 counts
+  Beam integrator (D3): 158032 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run004_6950_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 885 s
+  Valid events:     D1: 80119 counts (90.5299 cps)
+                    D2: 59594 counts (67.3379 cps)
+  Discarded events: D1: 72 counts
+                    D2: 32 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run005_6900
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...................Done.
+  Running time: 1642 s
+  Valid events:     D1: 637109 counts (388.008 cps)
+                    D2: 1066330 counts (649.409 cps)
+  Discarded events: D1: 2221 counts
+                    D2: 6391 counts
+  Beam integrator (D3): 88517 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run006_6900_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 262 s
+  Valid events:     D1: 23980 counts (91.5267 cps)
+                    D2: 18139 counts (69.2328 cps)
+  Discarded events: D1: 18 counts
+                    D2: 14 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run007_6850
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................Done.
+  Running time: 1832 s
+  Valid events:     D1: 721340 counts (393.745 cps)
+                    D2: 1509275 counts (823.84 cps)
+  Discarded events: D1: 2626 counts
+                    D2: 12578 counts
+  Beam integrator (D3): 80904 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run008_6850_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 452 s
+  Valid events:     D1: 41528 counts (91.8761 cps)
+                    D2: 30916 counts (68.3982 cps)
+  Discarded events: D1: 34 counts
+                    D2: 18 counts
+  Beam integrator (D3): 99 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run009_6800
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................Done.
+  Running time: 1824 s
+  Valid events:     D1: 713745 counts (391.308 cps)
+                    D2: 1156597 counts (634.099 cps)
+  Discarded events: D1: 2525 counts
+                    D2: 6627 counts
+  Beam integrator (D3): 94355 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run010_6800_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 405 s
+  Valid events:     D1: 73391 counts (181.212 cps)
+                    D2: 116717 counts (288.19 cps)
+  Discarded events: D1: 302 counts
+                    D2: 2212 counts
+  Beam integrator (D3): 5 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run011_6750
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......................Done.
+  Running time: 1906 s
+  Valid events:     D1: 744968 counts (390.854 cps)
+                    D2: 1251854 counts (656.796 cps)
+  Discarded events: D1: 2678 counts
+                    D2: 7521 counts
+  Beam integrator (D3): 98328 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run012_6750_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 333 s
+  Valid events:     D1: 30568 counts (91.7958 cps)
+                    D2: 22904 counts (68.7808 cps)
+  Discarded events: D1: 28 counts
+                    D2: 7 counts
+  Beam integrator (D3): 125 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run013_6700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......................Done.
+  Running time: 1917 s
+  Valid events:     D1: 777764 counts (405.719 cps)
+                    D2: 1374227 counts (716.863 cps)
+  Discarded events: D1: 2886 counts
+                    D2: 9114 counts
+  Beam integrator (D3): 97846 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run014_6700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 301 s
+  Valid events:     D1: 27410 counts (91.0631 cps)
+                    D2: 20806 counts (69.1229 cps)
+  Discarded events: D1: 22 counts
+                    D2: 20 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run015_6650
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...............Done.
+  Running time: 1516 s
+  Valid events:     D1: 553646 counts (365.202 cps)
+                    D2: 855060 counts (564.024 cps)
+  Discarded events: D1: 1879 counts
+                    D2: 4374 counts
+  Beam integrator (D3): 74643 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run016_6650_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 340 s
+  Valid events:     D1: 30894 counts (90.8647 cps)
+                    D2: 23307 counts (68.55 cps)
+  Discarded events: D1: 24 counts
+                    D2: 15 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run017_6600
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .................Done.
+  Running time: 1579 s
+  Valid events:     D1: 576472 counts (365.087 cps)
+                    D2: 932177 counts (590.359 cps)
+  Discarded events: D1: 2020 counts
+                    D2: 5462 counts
+  Beam integrator (D3): 85732 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run018_6600_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 443 s
+  Valid events:     D1: 40366 counts (91.1196 cps)
+                    D2: 30642 counts (69.1693 cps)
+  Discarded events: D1: 39 counts
+                    D2: 16 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run019_6550
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......................................................Done.
+  Running time: 1627 s
+  Valid events:     D1: 1320461 counts (811.593 cps)
+                    D2: 3819878 counts (2347.8 cps)
+  Discarded events: D1: 10253 counts
+                    D2: 90020 counts
+  Beam integrator (D3): 81281 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run020_6550_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 479 s
+  Valid events:     D1: 43881 counts (91.6096 cps)
+                    D2: 33602 counts (70.1503 cps)
+  Discarded events: D1: 33 counts
+                    D2: 20 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run021_6500
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............Done.
+  Running time: 1488 s
+  Valid events:     D1: 485547 counts (326.308 cps)
+                    D2: 758507 counts (509.749 cps)
+  Discarded events: D1: 1493 counts
+                    D2: 3467 counts
+  Beam integrator (D3): 68921 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run022_6500_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....Done.
+  Running time: 575 s
+  Valid events:     D1: 173156 counts (301.141 cps)
+                    D2: 267002 counts (464.351 cps)
+  Discarded events: D1: 485 counts
+                    D2: 1073 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run023_6450
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................Done.
+  Running time: 1822 s
+  Valid events:     D1: 736250 counts (404.089 cps)
+                    D2: 1552818 counts (852.26 cps)
+  Discarded events: D1: 2642 counts
+                    D2: 12053 counts
+  Beam integrator (D3): 90422 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run025_6450_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 799 s
+  Valid events:     D1: 73091 counts (91.4781 cps)
+                    D2: 54793 counts (68.577 cps)
+  Discarded events: D1: 59 counts
+                    D2: 35 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run026_6400_test
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................Done.
+  Running time: 1734 s
+  Valid events:     D1: 649551 counts (374.597 cps)
+                    D2: 1220209 counts (703.696 cps)
+  Discarded events: D1: 2255 counts
+                    D2: 7718 counts
+  Beam integrator (D3): 83697 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run027_6400_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 597 s
+  Valid events:     D1: 54732 counts (91.6784 cps)
+                    D2: 41113 counts (68.866 cps)
+  Discarded events: D1: 45 counts
+                    D2: 23 counts
+  Beam integrator (D3): 18 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run028_6350
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 858 s
+  Valid events:     D1: 281594 counts (328.198 cps)
+                    D2: 517459 counts (603.099 cps)
+  Discarded events: D1: 862 counts
+                    D2: 2809 counts
+  Beam integrator (D3): 42116 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run029_6350_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 600 s
+  Valid events:     D1: 54754 counts (91.2567 cps)
+                    D2: 40608 counts (67.68 cps)
+  Discarded events: D1: 40 counts
+                    D2: 30 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run030_6300
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 915 s
+  Valid events:     D1: 291794 counts (318.901 cps)
+                    D2: 491793 counts (537.479 cps)
+  Discarded events: D1: 864 counts
+                    D2: 2449 counts
+  Beam integrator (D3): 43012 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run031_6300_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 700 s
+  Valid events:     D1: 63859 counts (91.2271 cps)
+                    D2: 47657 counts (68.0814 cps)
+  Discarded events: D1: 45 counts
+                    D2: 38 counts
+  Beam integrator (D3): 14 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run032_6250
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 1271 s
+  Valid events:     D1: 277509 counts (218.339 cps)
+                    D2: 397572 counts (312.803 cps)
+  Discarded events: D1: 537 counts
+                    D2: 1164 counts
+  Beam integrator (D3): 39517 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run033_6250_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 457 s
+  Valid events:     D1: 41567 counts (90.9562 cps)
+                    D2: 31139 counts (68.1379 cps)
+  Discarded events: D1: 37 counts
+                    D2: 20 counts
+  Beam integrator (D3): 23 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run034_6200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 1202 s
+  Valid events:     D1: 329080 counts (273.777 cps)
+                    D2: 494039 counts (411.014 cps)
+  Discarded events: D1: 789 counts
+                    D2: 1819 counts
+  Beam integrator (D3): 56793 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run034_6200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 715 s
+  Valid events:     D1: 64487 counts (90.1916 cps)
+                    D2: 48531 counts (67.8755 cps)
+  Discarded events: D1: 42 counts
+                    D2: 32 counts
+  Beam integrator (D3): 10 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run036_6150
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 921 s
+  Valid events:     D1: 270282 counts (293.466 cps)
+                    D2: 404813 counts (439.536 cps)
+  Discarded events: D1: 701 counts
+                    D2: 1641 counts
+  Beam integrator (D3): 48707 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run037_6150_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 343 s
+  Valid events:     D1: 31387 counts (91.5073 cps)
+                    D2: 23215 counts (67.6822 cps)
+  Discarded events: D1: 20 counts
+                    D2: 17 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run038_6100
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....Done.
+  Running time: 630 s
+  Valid events:     D1: 170638 counts (270.854 cps)
+                    D2: 263456 counts (418.184 cps)
+  Discarded events: D1: 385 counts
+                    D2: 1027 counts
+  Beam integrator (D3): 29547 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run039_6100_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 662 s
+  Valid events:     D1: 59935 counts (90.5363 cps)
+                    D2: 44792 counts (67.6616 cps)
+  Discarded events: D1: 49 counts
+                    D2: 29 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run040_6050
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 665 s
+  Valid events:     D1: 229483 counts (345.087 cps)
+                    D2: 445215 counts (669.496 cps)
+  Discarded events: D1: 716 counts
+                    D2: 2647 counts
+  Beam integrator (D3): 36007 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run041_6050_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 701 s
+  Valid events:     D1: 62819 counts (89.6134 cps)
+                    D2: 46830 counts (66.8046 cps)
+  Discarded events: D1: 42 counts
+                    D2: 31 counts
+  Beam integrator (D3): 27 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run042_6000
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 893 s
+  Valid events:     D1: 249958 counts (279.908 cps)
+                    D2: 419229 counts (469.461 cps)
+  Discarded events: D1: 671 counts
+                    D2: 1779 counts
+  Beam integrator (D3): 41178 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run043_6000_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 930 s
+  Valid events:     D1: 82915 counts (89.1559 cps)
+                    D2: 62067 counts (66.7387 cps)
+  Discarded events: D1: 70 counts
+                    D2: 38 counts
+  Beam integrator (D3): 3 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run045_5950
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 829 s
+  Valid events:     D1: 256192 counts (309.037 cps)
+                    D2: 461057 counts (556.16 cps)
+  Discarded events: D1: 718 counts
+                    D2: 2293 counts
+  Beam integrator (D3): 40794 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run046_5950_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 707 s
+  Valid events:     D1: 63694 counts (90.0905 cps)
+                    D2: 47334 counts (66.9505 cps)
+  Discarded events: D1: 51 counts
+                    D2: 36 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run048_5900
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......Done.
+  Running time: 645 s
+  Valid events:     D1: 233053 counts (361.322 cps)
+                    D2: 402653 counts (624.268 cps)
+  Discarded events: D1: 784 counts
+                    D2: 2258 counts
+  Beam integrator (D3): 53617 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run049_5900_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 715 s
+  Valid events:     D1: 63972 counts (89.4713 cps)
+                    D2: 47913 counts (67.0112 cps)
+  Discarded events: D1: 37 counts
+                    D2: 28 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run050_5850
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........Done.
+  Running time: 740 s
+  Valid events:     D1: 305202 counts (412.435 cps)
+                    D2: 659604 counts (891.357 cps)
+  Discarded events: D1: 1116 counts
+                    D2: 5426 counts
+  Beam integrator (D3): 55733 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run051_5850_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 605 s
+  Valid events:     D1: 55210 counts (91.2562 cps)
+                    D2: 40322 counts (66.6479 cps)
+  Discarded events: D1: 44 counts
+                    D2: 14 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run052_5800
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 901 s
+  Valid events:     D1: 284221 counts (315.451 cps)
+                    D2: 486055 counts (539.462 cps)
+  Discarded events: D1: 863 counts
+                    D2: 2468 counts
+  Beam integrator (D3): 65402 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run053_5800_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 900 s
+  Valid events:     D1: 81216 counts (90.24 cps)
+                    D2: 60154 counts (66.8378 cps)
+  Discarded events: D1: 59 counts
+                    D2: 47 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run054_5750
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............Done.
+  Running time: 1088 s
+  Valid events:     D1: 405102 counts (372.336 cps)
+                    D2: 889255 counts (817.33 cps)
+  Discarded events: D1: 1470 counts
+                    D2: 6863 counts
+  Beam integrator (D3): 73717 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run055_5750_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 901 s
+  Valid events:     D1: 81352 counts (90.2908 cps)
+                    D2: 60005 counts (66.5982 cps)
+  Discarded events: D1: 67 counts
+                    D2: 37 counts
+  Beam integrator (D3): 110 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run058_5700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............Done.
+  Running time: 720 s
+  Valid events:     D1: 335202 counts (465.558 cps)
+                    D2: 743418 counts (1032.53 cps)
+  Discarded events: D1: 1429 counts
+                    D2: 7092 counts
+  Beam integrator (D3): 55112 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run059_5700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 903 s
+  Valid events:     D1: 81575 counts (90.3378 cps)
+                    D2: 60664 counts (67.1805 cps)
+  Discarded events: D1: 59 counts
+                    D2: 38 counts
+  Beam integrator (D3): 23 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run061_5650
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........Done.
+  Running time: 901 s
+  Valid events:     D1: 307978 counts (341.818 cps)
+                    D2: 652877 counts (724.614 cps)
+  Discarded events: D1: 1197 counts
+                    D2: 5738 counts
+  Beam integrator (D3): 60067 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run062_5650_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 600 s
+  Valid events:     D1: 54490 counts (90.8167 cps)
+                    D2: 40915 counts (68.1917 cps)
+  Discarded events: D1: 43 counts
+                    D2: 41 counts
+  Beam integrator (D3): 157 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run063_5600
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........Done.
+  Running time: 1080 s
+  Valid events:     D1: 329972 counts (305.53 cps)
+                    D2: 639857 counts (592.46 cps)
+  Discarded events: D1: 977 counts
+                    D2: 3581 counts
+  Beam integrator (D3): 62300 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run064_5600_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 600 s
+  Valid events:     D1: 54663 counts (91.105 cps)
+                    D2: 40135 counts (66.8917 cps)
+  Discarded events: D1: 58 counts
+                    D2: 20 counts
+  Beam integrator (D3): 7 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run065_5550
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............Done.
+  Running time: 1080 s
+  Valid events:     D1: 345109 counts (319.545 cps)
+                    D2: 749250 counts (693.75 cps)
+  Discarded events: D1: 998 counts
+                    D2: 4790 counts
+  Beam integrator (D3): 81655 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run066_5550_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 600 s
+  Valid events:     D1: 54784 counts (91.3067 cps)
+                    D2: 40499 counts (67.4983 cps)
+  Discarded events: D1: 43 counts
+                    D2: 25 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run067_5500
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......Done.
+  Running time: 902 s
+  Valid events:     D1: 232988 counts (258.302 cps)
+                    D2: 360467 counts (399.631 cps)
+  Discarded events: D1: 543 counts
+                    D2: 1304 counts
+  Beam integrator (D3): 67347 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run068_5500_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 600 s
+  Valid events:     D1: 54350 counts (90.5833 cps)
+                    D2: 40455 counts (67.425 cps)
+  Discarded events: D1: 44 counts
+                    D2: 30 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run069_5450
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................Done.
+  Running time: 906 s
+  Valid events:     D1: 511528 counts (564.6 cps)
+                    D2: 1348157 counts (1488.03 cps)
+  Discarded events: D1: 2588 counts
+                    D2: 18777 counts
+  Beam integrator (D3): 73080 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run070_5450_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 618 s
+  Valid events:     D1: 55998 counts (90.6117 cps)
+                    D2: 41618 counts (67.343 cps)
+  Discarded events: D1: 57 counts
+                    D2: 26 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run071_5400
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........Done.
+  Running time: 1212 s
+  Valid events:     D1: 309634 counts (255.474 cps)
+                    D2: 540609 counts (446.047 cps)
+  Discarded events: D1: 740 counts
+                    D2: 2293 counts
+  Beam integrator (D3): 91240 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run072_5400_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 911 s
+  Valid events:     D1: 83167 counts (91.292 cps)
+                    D2: 62070 counts (68.1339 cps)
+  Discarded events: D1: 75 counts
+                    D2: 65 counts
+  Beam integrator (D3): 9 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run073_5350
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............Done.
+  Running time: 1501 s
+  Valid events:     D1: 395439 counts (263.45 cps)
+                    D2: 669637 counts (446.127 cps)
+  Discarded events: D1: 946 counts
+                    D2: 2755 counts
+  Beam integrator (D3): 114203 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run074_5350_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1225 s
+  Valid events:     D1: 110981 counts (90.5967 cps)
+                    D2: 82188 counts (67.0922 cps)
+  Discarded events: D1: 83 counts
+                    D2: 65 counts
+  Beam integrator (D3): 3 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run075_5300
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......Done.
+  Running time: 903 s
+  Valid events:     D1: 207810 counts (230.133 cps)
+                    D2: 315002 counts (348.839 cps)
+  Discarded events: D1: 447 counts
+                    D2: 953 counts
+  Beam integrator (D3): 49396 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run076_5300_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1023 s
+  Valid events:     D1: 92133 counts (90.0616 cps)
+                    D2: 68871 counts (67.3226 cps)
+  Discarded events: D1: 72 counts
+                    D2: 36 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run077_5250
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......Done.
+  Running time: 937 s
+  Valid events:     D1: 201908 counts (215.483 cps)
+                    D2: 306254 counts (326.845 cps)
+  Discarded events: D1: 360 counts
+                    D2: 886 counts
+  Beam integrator (D3): 58822 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run078_5250_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 902 s
+  Valid events:     D1: 81374 counts (90.2151 cps)
+                    D2: 59844 counts (66.3459 cps)
+  Discarded events: D1: 60 counts
+                    D2: 38 counts
+  Beam integrator (D3): 10 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run079_5200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 904 s
+  Valid events:     D1: 237004 counts (262.173 cps)
+                    D2: 432200 counts (478.097 cps)
+  Discarded events: D1: 599 counts
+                    D2: 2273 counts
+  Beam integrator (D3): 62953 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run080_5200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 904 s
+  Valid events:     D1: 81794 counts (90.4801 cps)
+                    D2: 60530 counts (66.958 cps)
+  Discarded events: D1: 56 counts
+                    D2: 51 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run081_5150
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 902 s
+  Valid events:     D1: 151169 counts (167.593 cps)
+                    D2: 193883 counts (214.948 cps)
+  Discarded events: D1: 237 counts
+                    D2: 408 counts
+  Beam integrator (D3): 42810 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run082_5150_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 913 s
+  Valid events:     D1: 82569 counts (90.437 cps)
+                    D2: 60843 counts (66.6407 cps)
+  Discarded events: D1: 71 counts
+                    D2: 47 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run083_5100
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 902 s
+  Valid events:     D1: 217865 counts (241.535 cps)
+                    D2: 450655 counts (499.618 cps)
+  Discarded events: D1: 506 counts
+                    D2: 2030 counts
+  Beam integrator (D3): 52807 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run084_5100_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 903 s
+  Valid events:     D1: 81725 counts (90.5039 cps)
+                    D2: 59938 counts (66.3765 cps)
+  Discarded events: D1: 68 counts
+                    D2: 39 counts
+  Beam integrator (D3): 9 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run085_5050
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....Done.
+  Running time: 902 s
+  Valid events:     D1: 157083 counts (174.15 cps)
+                    D2: 210604 counts (233.486 cps)
+  Discarded events: D1: 219 counts
+                    D2: 453 counts
+  Beam integrator (D3): 51393 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run086_5050_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 904 s
+  Valid events:     D1: 81579 counts (90.2423 cps)
+                    D2: 59856 counts (66.2124 cps)
+  Discarded events: D1: 77 counts
+                    D2: 30 counts
+  Beam integrator (D3): 5 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run087_5000
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 906 s
+  Valid events:     D1: 227564 counts (251.174 cps)
+                    D2: 467317 counts (515.802 cps)
+  Discarded events: D1: 556 counts
+                    D2: 2176 counts
+  Beam integrator (D3): 56433 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run088_5000_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 903 s
+  Valid events:     D1: 81536 counts (90.2946 cps)
+                    D2: 59851 counts (66.2802 cps)
+  Discarded events: D1: 62 counts
+                    D2: 34 counts
+  Beam integrator (D3): 93 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run089_4950
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 902 s
+  Valid events:     D1: 230219 counts (255.232 cps)
+                    D2: 494331 counts (548.039 cps)
+  Discarded events: D1: 506 counts
+                    D2: 2566 counts
+  Beam integrator (D3): 55496 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run090_4950_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 919 s
+  Valid events:     D1: 83502 counts (90.8618 cps)
+                    D2: 61095 counts (66.4799 cps)
+  Discarded events: D1: 59 counts
+                    D2: 51 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run091_4900
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 611 s
+  Valid events:     D1: 120900 counts (197.872 cps)
+                    D2: 233455 counts (382.087 cps)
+  Discarded events: D1: 226 counts
+                    D2: 815 counts
+  Beam integrator (D3): 35465 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run092_4900_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 943 s
+  Valid events:     D1: 308871 counts (327.541 cps)
+                    D2: 580975 counts (616.092 cps)
+  Discarded events: D1: 1174 counts
+                    D2: 6837 counts
+  Beam integrator (D3): 129 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run093_4850
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 925 s
+  Valid events:     D1: 123248 counts (133.241 cps)
+                    D2: 150753 counts (162.976 cps)
+  Discarded events: D1: 125 counts
+                    D2: 218 counts
+  Beam integrator (D3): 38306 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run094_4850_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 934 s
+  Valid events:     D1: 84133 counts (90.0782 cps)
+                    D2: 61838 counts (66.2077 cps)
+  Discarded events: D1: 57 counts
+                    D2: 36 counts
+  Beam integrator (D3): 29 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run095_4800
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 908 s
+  Valid events:     D1: 123159 counts (135.638 cps)
+                    D2: 152219 counts (167.642 cps)
+  Discarded events: D1: 188 counts
+                    D2: 209 counts
+  Beam integrator (D3): 35124 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run096_4800_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 936 s
+  Valid events:     D1: 84715 counts (90.5075 cps)
+                    D2: 61454 counts (65.656 cps)
+  Discarded events: D1: 57 counts
+                    D2: 38 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run097_4750
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......Done.
+  Running time: 1132 s
+  Valid events:     D1: 186773 counts (164.994 cps)
+                    D2: 267796 counts (236.569 cps)
+  Discarded events: D1: 248 counts
+                    D2: 591 counts
+  Beam integrator (D3): 55520 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run098_4750_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1218 s
+  Valid events:     D1: 109938 counts (90.2611 cps)
+                    D2: 81172 counts (66.6437 cps)
+  Discarded events: D1: 78 counts
+                    D2: 44 counts
+  Beam integrator (D3): 17 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run099_4700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....Done.
+  Running time: 969 s
+  Valid events:     D1: 158812 counts (163.893 cps)
+                    D2: 251321 counts (259.361 cps)
+  Discarded events: D1: 230 counts
+                    D2: 635 counts
+  Beam integrator (D3): 37075 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run100_4700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 928 s
+  Valid events:     D1: 83798 counts (90.2996 cps)
+                    D2: 61953 counts (66.7597 cps)
+  Discarded events: D1: 69 counts
+                    D2: 34 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run101_4650
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 522 s
+  Valid events:     D1: 97636 counts (187.042 cps)
+                    D2: 188005 counts (360.163 cps)
+  Discarded events: D1: 163 counts
+                    D2: 544 counts
+  Beam integrator (D3): 21585 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run102_4650_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 918 s
+  Valid events:     D1: 82579 counts (89.9553 cps)
+                    D2: 61069 counts (66.524 cps)
+  Discarded events: D1: 68 counts
+                    D2: 42 counts
+  Beam integrator (D3): 91 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run103_4600
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 941 s
+  Valid events:     D1: 228775 counts (243.119 cps)
+                    D2: 530025 counts (563.257 cps)
+  Discarded events: D1: 531 counts
+                    D2: 2871 counts
+  Beam integrator (D3): 39629 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run104_4600_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 1345 s
+  Valid events:     D1: 121397 counts (90.258 cps)
+                    D2: 89932 counts (66.8639 cps)
+  Discarded events: D1: 96 counts
+                    D2: 44 counts
+  Beam integrator (D3): 7 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run105_4500
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 1354 s
+  Valid events:     D1: 234888 counts (173.477 cps)
+                    D2: 438885 counts (324.14 cps)
+  Discarded events: D1: 374 counts
+                    D2: 1259 counts
+  Beam integrator (D3): 53074 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run106_4500_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 934 s
+  Valid events:     D1: 84597 counts (90.5749 cps)
+                    D2: 62103 counts (66.4914 cps)
+  Discarded events: D1: 68 counts
+                    D2: 37 counts
+  Beam integrator (D3): 14 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run107_4450
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 665 s
+  Valid events:     D1: 113367 counts (170.477 cps)
+                    D2: 204192 counts (307.056 cps)
+  Discarded events: D1: 180 counts
+                    D2: 613 counts
+  Beam integrator (D3): 25524 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run108_4450_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 631 s
+  Valid events:     D1: 56870 counts (90.1268 cps)
+                    D2: 41610 counts (65.9429 cps)
+  Discarded events: D1: 43 counts
+                    D2: 36 counts
+  Beam integrator (D3): 81 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run109_4550
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....Done.
+  Running time: 750 s
+  Valid events:     D1: 128994 counts (171.992 cps)
+                    D2: 241368 counts (321.824 cps)
+  Discarded events: D1: 185 counts
+                    D2: 717 counts
+  Beam integrator (D3): 30866 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run110_4550_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 846 s
+  Valid events:     D1: 75815 counts (89.6158 cps)
+                    D2: 56040 counts (66.2411 cps)
+  Discarded events: D1: 64 counts
+                    D2: 34 counts
+  Beam integrator (D3): 8 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run111_4400
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 488 s
+  Valid events:     D1: 60988 counts (124.975 cps)
+                    D2: 66807 counts (136.9 cps)
+  Discarded events: D1: 66 counts
+                    D2: 87 counts
+  Beam integrator (D3): 19363 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run112_4400_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 842 s
+  Valid events:     D1: 75805 counts (90.0297 cps)
+                    D2: 55785 counts (66.253 cps)
+  Discarded events: D1: 61 counts
+                    D2: 35 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run113_4350
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......Done.
+  Running time: 657 s
+  Valid events:     D1: 154383 counts (234.982 cps)
+                    D2: 375781 counts (571.096 cps)
+  Discarded events: D1: 348 counts
+                    D2: 2121 counts
+  Beam integrator (D3): 24365 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run114_4350_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1041 s
+  Valid events:     D1: 93644 counts (89.9558 cps)
+                    D2: 68746 counts (66.0384 cps)
+  Discarded events: D1: 70 counts
+                    D2: 44 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run115_4380
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 915 s
+  Valid events:     D1: 215667 counts (235.702 cps)
+                    D2: 546711 counts (597.498 cps)
+  Discarded events: D1: 438 counts
+                    D2: 3009 counts
+  Beam integrator (D3): 33151 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run116_4380_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1169 s
+  Valid events:     D1: 104773 counts (89.6262 cps)
+                    D2: 77655 counts (66.4286 cps)
+  Discarded events: D1: 83 counts
+                    D2: 52 counts
+  Beam integrator (D3): 66 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run119_7050
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......Done.
+  Running time: 587 s
+  Valid events:     D1: 223898 counts (381.428 cps)
+                    D2: 359359 counts (612.196 cps)
+  Discarded events: D1: 806 counts
+                    D2: 2054 counts
+  Beam integrator (D3): 29238 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run120_7050_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 544 s
+  Valid events:     D1: 49374 counts (90.761 cps)
+                    D2: 38008 counts (69.8676 cps)
+  Discarded events: D1: 36 counts
+                    D2: 22 counts
+  Beam integrator (D3): 3 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run121_7100
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..................Done.
+  Running time: 624 s
+  Valid events:     D1: 502189 counts (804.79 cps)
+                    D2: 1150661 counts (1844.01 cps)
+  Discarded events: D1: 3850 counts
+                    D2: 21288 counts
+  Beam integrator (D3): 45133 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run122_7100_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 650 s
+  Valid events:     D1: 59385 counts (91.3615 cps)
+                    D2: 45416 counts (69.8708 cps)
+  Discarded events: D1: 48 counts
+                    D2: 32 counts
+  Beam integrator (D3): 100 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run124_7150
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........Done.
+  Running time: 679 s
+  Valid events:     D1: 332049 counts (489.027 cps)
+                    D2: 542165 counts (798.476 cps)
+  Discarded events: D1: 1504 counts
+                    D2: 3834 counts
+  Beam integrator (D3): 42078 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run125_7150_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 829 s
+  Valid events:     D1: 76572 counts (92.3667 cps)
+                    D2: 57998 counts (69.9614 cps)
+  Discarded events: D1: 57 counts
+                    D2: 37 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run126_7200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ................Done.
+  Running time: 1130 s
+  Valid events:     D1: 551127 counts (487.723 cps)
+                    D2: 934010 counts (826.558 cps)
+  Discarded events: D1: 2342 counts
+                    D2: 6991 counts
+  Beam integrator (D3): 65942 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run127_7200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 602 s
+  Valid events:     D1: 55649 counts (92.4402 cps)
+                    D2: 42089 counts (69.9153 cps)
+  Discarded events: D1: 49 counts
+                    D2: 22 counts
+  Beam integrator (D3): 3 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run128_7250
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........Done.
+  Running time: 766 s
+  Valid events:     D1: 365355 counts (476.965 cps)
+                    D2: 623892 counts (814.48 cps)
+  Discarded events: D1: 1554 counts
+                    D2: 4646 counts
+  Beam integrator (D3): 44877 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run129_7250_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 861 s
+  Valid events:     D1: 79053 counts (91.8153 cps)
+                    D2: 59533 counts (69.144 cps)
+  Discarded events: D1: 68 counts
+                    D2: 43 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run130_7300
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .................Done.
+  Running time: 1127 s
+  Valid events:     D1: 580542 counts (515.122 cps)
+                    D2: 975065 counts (865.186 cps)
+  Discarded events: D1: 2849 counts
+                    D2: 7509 counts
+  Beam integrator (D3): 68437 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run131_7300_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 585 s
+  Valid events:     D1: 53516 counts (91.4803 cps)
+                    D2: 40610 counts (69.4188 cps)
+  Discarded events: D1: 42 counts
+                    D2: 20 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run132_7350
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............Done.
+  Running time: 870 s
+  Valid events:     D1: 476245 counts (547.408 cps)
+                    D2: 806953 counts (927.532 cps)
+  Discarded events: D1: 2283 counts
+                    D2: 6960 counts
+  Beam integrator (D3): 51543 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run133_7350_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 953 s
+  Valid events:     D1: 87771 counts (92.0997 cps)
+                    D2: 66566 counts (69.8489 cps)
+  Discarded events: D1: 66 counts
+                    D2: 37 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run134_7400
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .................Done.
+  Running time: 903 s
+  Valid events:     D1: 562349 counts (622.756 cps)
+                    D2: 988813 counts (1095.03 cps)
+  Discarded events: D1: 3157 counts
+                    D2: 9991 counts
+  Beam integrator (D3): 57049 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run135_7400_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 754 s
+  Valid events:     D1: 69320 counts (91.9363 cps)
+                    D2: 52834 counts (70.0716 cps)
+  Discarded events: D1: 58 counts
+                    D2: 30 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run136_7450
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .............Done.
+  Running time: 757 s
+  Valid events:     D1: 428508 counts (566.061 cps)
+                    D2: 739578 counts (976.985 cps)
+  Discarded events: D1: 2170 counts
+                    D2: 6610 counts
+  Beam integrator (D3): 47462 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run137_7450_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 876 s
+  Valid events:     D1: 80646 counts (92.0616 cps)
+                    D2: 61293 counts (69.9692 cps)
+  Discarded events: D1: 67 counts
+                    D2: 51 counts
+  Beam integrator (D3): 97 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run138_7500
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........Done.
+  Running time: 618 s
+  Valid events:     D1: 333453 counts (539.568 cps)
+                    D2: 577789 counts (934.934 cps)
+  Discarded events: D1: 1608 counts
+                    D2: 4917 counts
+  Beam integrator (D3): 38593 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run139_7500_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1188 s
+  Valid events:     D1: 109819 counts (92.4402 cps)
+                    D2: 82296 counts (69.2727 cps)
+  Discarded events: D1: 84 counts
+                    D2: 51 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run140_7550
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........Done.
+  Running time: 533 s
+  Valid events:     D1: 319488 counts (599.415 cps)
+                    D2: 560784 counts (1052.13 cps)
+  Discarded events: D1: 1710 counts
+                    D2: 5316 counts
+  Beam integrator (D3): 33768 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run141_7550_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 964 s
+  Valid events:     D1: 88556 counts (91.8631 cps)
+                    D2: 67198 counts (69.7075 cps)
+  Discarded events: D1: 76 counts
+                    D2: 42 counts
+  Beam integrator (D3): 5 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run144_7600
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........Done.
+  Running time: 558 s
+  Valid events:     D1: 360599 counts (646.235 cps)
+                    D2: 662963 counts (1188.11 cps)
+  Discarded events: D1: 2053 counts
+                    D2: 7059 counts
+  Beam integrator (D3): 33444 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run145_7600_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1062 s
+  Valid events:     D1: 99191 counts (93.4002 cps)
+                    D2: 73974 counts (69.6554 cps)
+  Discarded events: D1: 69 counts
+                    D2: 48 counts
+  Beam integrator (D3): 6 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run146_7650
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............Done.
+  Running time: 584 s
+  Valid events:     D1: 377313 counts (646.084 cps)
+                    D2: 704195 counts (1205.81 cps)
+  Discarded events: D1: 2289 counts
+                    D2: 7718 counts
+  Beam integrator (D3): 34986 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run147_7650_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 947 s
+  Valid events:     D1: 88015 counts (92.9409 cps)
+                    D2: 66188 counts (69.8923 cps)
+  Discarded events: D1: 87 counts
+                    D2: 52 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run148_7700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............Done.
+  Running time: 491 s
+  Valid events:     D1: 352506 counts (717.935 cps)
+                    D2: 754246 counts (1536.14 cps)
+  Discarded events: D1: 2357 counts
+                    D2: 10663 counts
+  Beam integrator (D3): 29370 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run149_7700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 926 s
+  Valid events:     D1: 85501 counts (92.3337 cps)
+                    D2: 64895 counts (70.081 cps)
+  Discarded events: D1: 85 counts
+                    D2: 46 counts
+  Beam integrator (D3): 74 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run150_7750
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............Done.
+  Running time: 648 s
+  Valid events:     D1: 402206 counts (620.688 cps)
+                    D2: 710917 counts (1097.09 cps)
+  Discarded events: D1: 2299 counts
+                    D2: 7113 counts
+  Beam integrator (D3): 40394 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run151_7750_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 1274 s
+  Valid events:     D1: 117885 counts (92.5314 cps)
+                    D2: 90301 counts (70.8799 cps)
+  Discarded events: D1: 95 counts
+                    D2: 58 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run152_7800
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........................................Done.
+  Running time: 2145 s
+  Valid events:     D1: 1390177 counts (648.101 cps)
+                    D2: 2445569 counts (1140.13 cps)
+  Discarded events: D1: 8334 counts
+                    D2: 26181 counts
+  Beam integrator (D3): 131165 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run153_7800_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 2018 s
+  Valid events:     D1: 187858 counts (93.0912 cps)
+                    D2: 142778 counts (70.7522 cps)
+  Discarded events: D1: 161 counts
+                    D2: 108 counts
+  Beam integrator (D3): 130 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run154_7850
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......................Done.
+  Running time: 1107 s
+  Valid events:     D1: 783697 counts (707.947 cps)
+                    D2: 1396836 counts (1261.82 cps)
+  Discarded events: D1: 5158 counts
+                    D2: 16084 counts
+  Beam integrator (D3): 71910 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run155_7850_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 794 s
+  Valid events:     D1: 74092 counts (93.3149 cps)
+                    D2: 56560 counts (71.2343 cps)
+  Discarded events: D1: 55 counts
+                    D2: 41 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run156_7900
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............Done.
+  Running time: 513 s
+  Valid events:     D1: 359987 counts (701.729 cps)
+                    D2: 733891 counts (1430.59 cps)
+  Discarded events: D1: 2314 counts
+                    D2: 9704 counts
+  Beam integrator (D3): 32269 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run157_7900_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 860 s
+  Valid events:     D1: 80628 counts (93.7535 cps)
+                    D2: 62338 counts (72.486 cps)
+  Discarded events: D1: 81 counts
+                    D2: 42 counts
+  Beam integrator (D3): 6 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run158_7950
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....................Done.
+  Running time: 865 s
+  Valid events:     D1: 650004 counts (751.45 cps)
+                    D2: 1367972 counts (1581.47 cps)
+  Discarded events: D1: 4537 counts
+                    D2: 19922 counts
+  Beam integrator (D3): 53111 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run159_7950_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 909 s
+  Valid events:     D1: 86007 counts (94.6172 cps)
+                    D2: 66696 counts (73.3729 cps)
+  Discarded events: D1: 70 counts
+                    D2: 45 counts
+  Beam integrator (D3): 3 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run160_8000
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...............Done.
+  Running time: 571 s
+  Valid events:     D1: 441034 counts (772.389 cps)
+                    D2: 931999 counts (1632.22 cps)
+  Discarded events: D1: 3149 counts
+                    D2: 13927 counts
+  Beam integrator (D3): 32272 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run161_8000_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1063 s
+  Valid events:     D1: 101017 counts (95.0301 cps)
+                    D2: 78773 counts (74.1044 cps)
+  Discarded events: D1: 84 counts
+                    D2: 55 counts
+  Beam integrator (D3): 107 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run162_8050
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........Done.
+  Running time: 462 s
+  Valid events:     D1: 322664 counts (698.407 cps)
+                    D2: 649227 counts (1405.25 cps)
+  Discarded events: D1: 2115 counts
+                    D2: 8286 counts
+  Beam integrator (D3): 24874 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run163_8050_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1187 s
+  Valid events:     D1: 112497 counts (94.7742 cps)
+                    D2: 86601 counts (72.9579 cps)
+  Discarded events: D1: 89 counts
+                    D2: 59 counts
+  Beam integrator (D3): 9 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run164_8100
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...............Done.
+  Running time: 750 s
+  Valid events:     D1: 507801 counts (677.068 cps)
+                    D2: 924376 counts (1232.5 cps)
+  Discarded events: D1: 3202 counts
+                    D2: 10253 counts
+  Beam integrator (D3): 40042 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run165_8100_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 934 s
+  Valid events:     D1: 87821 counts (94.0268 cps)
+                    D2: 68715 counts (73.5707 cps)
+  Discarded events: D1: 69 counts
+                    D2: 50 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run166_8150
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............................Done.
+  Running time: 985 s
+  Valid events:     D1: 929446 counts (943.6 cps)
+                    D2: 1668023 counts (1693.42 cps)
+  Discarded events: D1: 9356 counts
+                    D2: 30566 counts
+  Beam integrator (D3): 145233 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run167_8150_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 873 s
+  Valid events:     D1: 165942 counts (190.082 cps)
+                    D2: 213176 counts (244.188 cps)
+  Discarded events: D1: 786 counts
+                    D2: 1983 counts
+  Beam integrator (D3): 92 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run168_8200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ................Done.
+  Running time: 635 s
+  Valid events:     D1: 525281 counts (827.214 cps)
+                    D2: 988347 counts (1556.45 cps)
+  Discarded events: D1: 3958 counts
+                    D2: 14156 counts
+  Beam integrator (D3): 37710 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run169_8200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 1434 s
+  Valid events:     D1: 134900 counts (94.0725 cps)
+                    D2: 103079 counts (71.8821 cps)
+  Discarded events: D1: 142 counts
+                    D2: 88 counts
+  Beam integrator (D3): 119 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run170_8250
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............Done.
+  Running time: 572 s
+  Valid events:     D1: 415710 counts (726.766 cps)
+                    D2: 855749 counts (1496.06 cps)
+  Discarded events: D1: 2817 counts
+                    D2: 11984 counts
+  Beam integrator (D3): 28462 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run171_8250_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 792 s
+  Valid events:     D1: 73935 counts (93.3523 cps)
+                    D2: 56725 counts (71.6225 cps)
+  Discarded events: D1: 71 counts
+                    D2: 30 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run172_8300
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .............Done.
+  Running time: 528 s
+  Valid events:     D1: 419677 counts (794.843 cps)
+                    D2: 777698 counts (1472.91 cps)
+  Discarded events: D1: 3086 counts
+                    D2: 10399 counts
+  Beam integrator (D3): 28026 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run173_8300_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 680 s
+  Valid events:     D1: 64067 counts (94.2162 cps)
+                    D2: 49432 counts (72.6941 cps)
+  Discarded events: D1: 42 counts
+                    D2: 30 counts
+  Beam integrator (D3): 3 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run174_8350
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........Done.
+  Running time: 468 s
+  Valid events:     D1: 353018 counts (754.312 cps)
+                    D2: 659270 counts (1408.7 cps)
+  Discarded events: D1: 2372 counts
+                    D2: 8571 counts
+  Beam integrator (D3): 24221 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run175_8350_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 523 s
+  Valid events:     D1: 49536 counts (94.7151 cps)
+                    D2: 38573 counts (73.7533 cps)
+  Discarded events: D1: 42 counts
+                    D2: 24 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run176_8400
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .................Done.
+  Running time: 509 s
+  Valid events:     D1: 506840 counts (995.756 cps)
+                    D2: 1115708 counts (2191.96 cps)
+  Discarded events: D1: 4609 counts
+                    D2: 22713 counts
+  Beam integrator (D3): 25784 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run177_8400_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 1020 s
+  Valid events:     D1: 96589 counts (94.6951 cps)
+                    D2: 75547 counts (74.0657 cps)
+  Discarded events: D1: 82 counts
+                    D2: 44 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run178_8450
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .............Done.
+  Running time: 344 s
+  Valid events:     D1: 425152 counts (1235.91 cps)
+                    D2: 801268 counts (2329.27 cps)
+  Discarded events: D1: 4930 counts
+                    D2: 17279 counts
+  Beam integrator (D3): 18959 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run179_8450_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 918 s
+  Valid events:     D1: 87317 counts (95.1166 cps)
+                    D2: 67504 counts (73.5338 cps)
+  Discarded events: D1: 65 counts
+                    D2: 55 counts
+  Beam integrator (D3): 18 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run180_8500
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............Done.
+  Running time: 318 s
+  Valid events:     D1: 380798 counts (1197.48 cps)
+                    D2: 774372 counts (2435.13 cps)
+  Discarded events: D1: 4130 counts
+                    D2: 17686 counts
+  Beam integrator (D3): 16109 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run181_8500_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 494 s
+  Valid events:     D1: 46918 counts (94.9757 cps)
+                    D2: 36758 counts (74.4089 cps)
+  Discarded events: D1: 36 counts
+                    D2: 20 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run182_8550
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...............Done.
+  Running time: 307 s
+  Valid events:     D1: 499710 counts (1627.72 cps)
+                    D2: 902022 counts (2938.18 cps)
+  Discarded events: D1: 7271 counts
+                    D2: 25183 counts
+  Beam integrator (D3): 15049 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run183_8550_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 602 s
+  Valid events:     D1: 57629 counts (95.7292 cps)
+                    D2: 45333 counts (75.304 cps)
+  Discarded events: D1: 46 counts
+                    D2: 31 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run184_8600
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................Done.
+  Running time: 653 s
+  Valid events:     D1: 718913 counts (1100.94 cps)
+                    D2: 1525066 counts (2335.48 cps)
+  Discarded events: D1: 7310 counts
+                    D2: 33268 counts
+  Beam integrator (D3): 33494 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run185_8600_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 603 s
+  Valid events:     D1: 57564 counts (95.4627 cps)
+                    D2: 45864 counts (76.0597 cps)
+  Discarded events: D1: 29 counts
+                    D2: 40 counts
+  Beam integrator (D3): 5 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run186_8650
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................................Done.
+  Running time: 427 s
+  Valid events:     D1: 1047057 counts (2452.12 cps)
+                    D2: 2335988 counts (5470.7 cps)
+  Discarded events: D1: 24236 counts
+                    D2: 125631 counts
+  Beam integrator (D3): 21702 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run187_8650_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 571 s
+  Valid events:     D1: 55956 counts (97.9965 cps)
+                    D2: 45476 counts (79.6427 cps)
+  Discarded events: D1: 36 counts
+                    D2: 32 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run188_8700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..................Done.
+  Running time: 607 s
+  Valid events:     D1: 537448 counts (885.417 cps)
+                    D2: 1203201 counts (1982.21 cps)
+  Discarded events: D1: 4368 counts
+                    D2: 21623 counts
+  Beam integrator (D3): 27606 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run189_8700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 606 s
+  Valid events:     D1: 58995 counts (97.3515 cps)
+                    D2: 47411 counts (78.236 cps)
+  Discarded events: D1: 42 counts
+                    D2: 38 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run190_8750
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ................Done.
+  Running time: 605 s
+  Valid events:     D1: 525161 counts (868.035 cps)
+                    D2: 1014712 counts (1677.21 cps)
+  Discarded events: D1: 4112 counts
+                    D2: 15694 counts
+  Beam integrator (D3): 30729 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run191_8750_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 606 s
+  Valid events:     D1: 57961 counts (95.6452 cps)
+                    D2: 46180 counts (76.2046 cps)
+  Discarded events: D1: 49 counts
+                    D2: 36 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run192_8800
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..................Done.
+  Running time: 627 s
+  Valid events:     D1: 555774 counts (886.402 cps)
+                    D2: 1122737 counts (1790.65 cps)
+  Discarded events: D1: 4529 counts
+                    D2: 18435 counts
+  Beam integrator (D3): 33437 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run193_8800_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 613 s
+  Valid events:     D1: 58567 counts (95.5416 cps)
+                    D2: 46607 counts (76.031 cps)
+  Discarded events: D1: 60 counts
+                    D2: 35 counts
+  Beam integrator (D3): 3 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run194_8850
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .................Done.
+  Running time: 602 s
+  Valid events:     D1: 514174 counts (854.11 cps)
+                    D2: 1060712 counts (1761.98 cps)
+  Discarded events: D1: 4138 counts
+                    D2: 17039 counts
+  Beam integrator (D3): 28787 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run195_8850_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 717 s
+  Valid events:     D1: 68776 counts (95.9219 cps)
+                    D2: 54091 counts (75.4407 cps)
+  Discarded events: D1: 63 counts
+                    D2: 37 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run196_8900
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .............................Done.
+  Running time: 683 s
+  Valid events:     D1: 827935 counts (1212.2 cps)
+                    D2: 1890687 counts (2768.21 cps)
+  Discarded events: D1: 9422 counts
+                    D2: 49603 counts
+  Beam integrator (D3): 38352 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run197_8900_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 646 s
+  Valid events:     D1: 62574 counts (96.8638 cps)
+                    D2: 49882 counts (77.2167 cps)
+  Discarded events: D1: 61 counts
+                    D2: 30 counts
+  Beam integrator (D3): 15 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run198_8950
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...............................Done.
+  Running time: 639 s
+  Valid events:     D1: 853177 counts (1335.18 cps)
+                    D2: 2117437 counts (3313.67 cps)
+  Discarded events: D1: 10533 counts
+                    D2: 66909 counts
+  Beam integrator (D3): 32675 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run199_8950_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 602 s
+  Valid events:     D1: 58286 counts (96.8206 cps)
+                    D2: 46705 counts (77.5831 cps)
+  Discarded events: D1: 43 counts
+                    D2: 28 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run200_9000
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................Done.
+  Running time: 605 s
+  Valid events:     D1: 750919 counts (1241.19 cps)
+                    D2: 1801374 counts (2977.48 cps)
+  Discarded events: D1: 8581 counts
+                    D2: 50476 counts
+  Beam integrator (D3): 31355 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run201_9000_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 612 s
+  Valid events:     D1: 58988 counts (96.3856 cps)
+                    D2: 46866 counts (76.5784 cps)
+  Discarded events: D1: 47 counts
+                    D2: 35 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run202_9050
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....................Done.
+  Running time: 612 s
+  Valid events:     D1: 632014 counts (1032.7 cps)
+                    D2: 1336315 counts (2183.52 cps)
+  Discarded events: D1: 5972 counts
+                    D2: 27427 counts
+  Beam integrator (D3): 31739 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run203_9050_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 605 s
+  Valid events:     D1: 57755 counts (95.4628 cps)
+                    D2: 45823 counts (75.7405 cps)
+  Discarded events: D1: 56 counts
+                    D2: 31 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run204_9100
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................Done.
+  Running time: 602 s
+  Valid events:     D1: 771871 counts (1282.18 cps)
+                    D2: 1831353 counts (3042.11 cps)
+  Discarded events: D1: 9190 counts
+                    D2: 52801 counts
+  Beam integrator (D3): 30099 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run205_9100_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......Done.
+  Running time: 608 s
+  Valid events:     D1: 215268 counts (354.059 cps)
+                    D2: 440618 counts (724.701 cps)
+  Discarded events: D1: 2086 counts
+                    D2: 12080 counts
+  Beam integrator (D3): 82 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run206_9150
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................Done.
+  Running time: 746 s
+  Valid events:     D1: 724417 counts (971.068 cps)
+                    D2: 1507612 counts (2020.93 cps)
+  Discarded events: D1: 6497 counts
+                    D2: 28126 counts
+  Beam integrator (D3): 38305 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run207_9150_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 614 s
+  Valid events:     D1: 58959 counts (96.0244 cps)
+                    D2: 46471 counts (75.6857 cps)
+  Discarded events: D1: 54 counts
+                    D2: 32 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run208_9200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......................Done.
+  Running time: 600 s
+  Valid events:     D1: 657749 counts (1096.25 cps)
+                    D2: 1410510 counts (2350.85 cps)
+  Discarded events: D1: 6619 counts
+                    D2: 30681 counts
+  Beam integrator (D3): 32143 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run209_9200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 58155 counts (96.925 cps)
+                    D2: 45995 counts (76.6583 cps)
+  Discarded events: D1: 46 counts
+                    D2: 41 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run210_9250
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....................Done.
+  Running time: 600 s
+  Valid events:     D1: 626047 counts (1043.41 cps)
+                    D2: 1352947 counts (2254.91 cps)
+  Discarded events: D1: 5992 counts
+                    D2: 28420 counts
+  Beam integrator (D3): 30489 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run211_9250_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 57269 counts (95.4483 cps)
+                    D2: 45330 counts (75.55 cps)
+  Discarded events: D1: 53 counts
+                    D2: 21 counts
+  Beam integrator (D3): 44 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run212_9300
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......................Done.
+  Running time: 781 s
+  Valid events:     D1: 685264 counts (877.419 cps)
+                    D2: 1454599 counts (1862.48 cps)
+  Discarded events: D1: 5622 counts
+                    D2: 24905 counts
+  Beam integrator (D3): 33899 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run213_9300_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 58462 counts (97.4367 cps)
+                    D2: 45932 counts (76.5533 cps)
+  Discarded events: D1: 52 counts
+                    D2: 26 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run214_9350
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................Done.
+  Running time: 660 s
+  Valid events:     D1: 750621 counts (1137.3 cps)
+                    D2: 1528723 counts (2316.25 cps)
+  Discarded events: D1: 7778 counts
+                    D2: 32989 counts
+  Beam integrator (D3): 33348 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run215_9350_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 661 s
+  Valid events:     D1: 63605 counts (96.2254 cps)
+                    D2: 50414 counts (76.2693 cps)
+  Discarded events: D1: 66 counts
+                    D2: 43 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run218_9400
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........................Done.
+  Running time: 780 s
+  Valid events:     D1: 780258 counts (1000.33 cps)
+                    D2: 1677600 counts (2150.77 cps)
+  Discarded events: D1: 7232 counts
+                    D2: 33599 counts
+  Beam integrator (D3): 36320 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run219_9400_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 58282 counts (97.1367 cps)
+                    D2: 45971 counts (76.6183 cps)
+  Discarded events: D1: 51 counts
+                    D2: 26 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run220_9450
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................Done.
+  Running time: 720 s
+  Valid events:     D1: 716985 counts (995.812 cps)
+                    D2: 1551353 counts (2154.66 cps)
+  Discarded events: D1: 6718 counts
+                    D2: 30888 counts
+  Beam integrator (D3): 33413 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run221_9450_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 58280 counts (97.1333 cps)
+                    D2: 46569 counts (77.615 cps)
+  Discarded events: D1: 41 counts
+                    D2: 24 counts
+  Beam integrator (D3): 5 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run222_9500
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .............................Done.
+  Running time: 720 s
+  Valid events:     D1: 871711 counts (1210.71 cps)
+                    D2: 1843987 counts (2561.09 cps)
+  Discarded events: D1: 9746 counts
+                    D2: 44211 counts
+  Beam integrator (D3): 34924 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run223_9500_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 59052 counts (98.42 cps)
+                    D2: 47445 counts (79.075 cps)
+  Discarded events: D1: 44 counts
+                    D2: 28 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run224_9550
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........................Done.
+  Running time: 661 s
+  Valid events:     D1: 748707 counts (1132.69 cps)
+                    D2: 1684125 counts (2547.84 cps)
+  Discarded events: D1: 7841 counts
+                    D2: 39930 counts
+  Beam integrator (D3): 32020 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run225_9550_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 58486 counts (97.4767 cps)
+                    D2: 46842 counts (78.07 cps)
+  Discarded events: D1: 57 counts
+                    D2: 41 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run226_9600
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............................Done.
+  Running time: 660 s
+  Valid events:     D1: 851958 counts (1290.85 cps)
+                    D2: 1819392 counts (2756.65 cps)
+  Discarded events: D1: 10146 counts
+                    D2: 46491 counts
+  Beam integrator (D3): 33428 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run227_9600_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 58293 counts (97.155 cps)
+                    D2: 46444 counts (77.4067 cps)
+  Discarded events: D1: 55 counts
+                    D2: 31 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run228_9650
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................Done.
+  Running time: 660 s
+  Valid events:     D1: 819073 counts (1241.02 cps)
+                    D2: 1772215 counts (2685.17 cps)
+  Discarded events: D1: 9465 counts
+                    D2: 44775 counts
+  Beam integrator (D3): 34051 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run229_9650_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 601 s
+  Valid events:     D1: 59416 counts (98.8619 cps)
+                    D2: 47474 counts (78.9917 cps)
+  Discarded events: D1: 50 counts
+                    D2: 28 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run230_9700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................Done.
+  Running time: 660 s
+  Valid events:     D1: 778768 counts (1179.95 cps)
+                    D2: 1755269 counts (2659.5 cps)
+  Discarded events: D1: 8407 counts
+                    D2: 44235 counts
+  Beam integrator (D3): 33432 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run231_9700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 58426 counts (97.3767 cps)
+                    D2: 47140 counts (78.5667 cps)
+  Discarded events: D1: 41 counts
+                    D2: 39 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run232_9750
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................Done.
+  Running time: 660 s
+  Valid events:     D1: 783798 counts (1187.57 cps)
+                    D2: 1788020 counts (2709.12 cps)
+  Discarded events: D1: 8499 counts
+                    D2: 45150 counts
+  Beam integrator (D3): 33445 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run233_9750_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 58946 counts (98.2433 cps)
+                    D2: 47463 counts (79.105 cps)
+  Discarded events: D1: 49 counts
+                    D2: 27 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run234_9800
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............................Done.
+  Running time: 660 s
+  Valid events:     D1: 803347 counts (1217.19 cps)
+                    D2: 1841035 counts (2789.45 cps)
+  Discarded events: D1: 9033 counts
+                    D2: 48098 counts
+  Beam integrator (D3): 32158 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run235_9800_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 58770 counts (97.95 cps)
+                    D2: 47280 counts (78.8 cps)
+  Discarded events: D1: 50 counts
+                    D2: 37 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run236_9850
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................Done.
+  Running time: 661 s
+  Valid events:     D1: 781366 counts (1182.1 cps)
+                    D2: 1770091 counts (2677.9 cps)
+  Discarded events: D1: 8595 counts
+                    D2: 44367 counts
+  Beam integrator (D3): 32702 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run237_9850_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 601 s
+  Valid events:     D1: 58574 counts (97.4609 cps)
+                    D2: 47420 counts (78.9018 cps)
+  Discarded events: D1: 48 counts
+                    D2: 42 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run238_9900
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............................Done.
+  Running time: 720 s
+  Valid events:     D1: 868882 counts (1206.78 cps)
+                    D2: 1992404 counts (2767.23 cps)
+  Discarded events: D1: 9661 counts
+                    D2: 51593 counts
+  Beam integrator (D3): 35570 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run239_9900_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 59097 counts (98.495 cps)
+                    D2: 47344 counts (78.9067 cps)
+  Discarded events: D1: 44 counts
+                    D2: 32 counts
+  Beam integrator (D3): 6 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run240_9950
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...............................Done.
+  Running time: 720 s
+  Valid events:     D1: 876838 counts (1217.83 cps)
+                    D2: 2025879 counts (2813.72 cps)
+  Discarded events: D1: 9993 counts
+                    D2: 53751 counts
+  Beam integrator (D3): 34383 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run241_9950_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 599 s
+  Valid events:     D1: 59146 counts (98.7412 cps)
+                    D2: 47348 counts (79.0451 cps)
+  Discarded events: D1: 38 counts
+                    D2: 38 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run242_10000
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............................Done.
+  Running time: 662 s
+  Valid events:     D1: 869105 counts (1312.85 cps)
+                    D2: 1953497 counts (2950.9 cps)
+  Discarded events: D1: 10624 counts
+                    D2: 54694 counts
+  Beam integrator (D3): 34833 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run243_10000_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 59345 counts (98.9083 cps)
+                    D2: 47644 counts (79.4067 cps)
+  Discarded events: D1: 35 counts
+                    D2: 25 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run244_10050
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............................Done.
+  Running time: 600 s
+  Valid events:     D1: 871833 counts (1453.06 cps)
+                    D2: 1988598 counts (3314.33 cps)
+  Discarded events: D1: 11845 counts
+                    D2: 62979 counts
+  Beam integrator (D3): 33273 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run245_10050_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 59897 counts (99.8283 cps)
+                    D2: 47916 counts (79.86 cps)
+  Discarded events: D1: 54 counts
+                    D2: 31 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run246_10100
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ................................Done.
+  Running time: 600 s
+  Valid events:     D1: 910335 counts (1517.22 cps)
+                    D2: 2076605 counts (3461.01 cps)
+  Discarded events: D1: 12758 counts
+                    D2: 68171 counts
+  Beam integrator (D3): 33069 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run247_10100_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 60390 counts (100.65 cps)
+                    D2: 48844 counts (81.4067 cps)
+  Discarded events: D1: 44 counts
+                    D2: 43 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run248_10150
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............................................Done.
+  Running time: 600 s
+  Valid events:     D1: 1397923 counts (2329.87 cps)
+                    D2: 2914202 counts (4857 cps)
+  Discarded events: D1: 31477 counts
+                    D2: 142133 counts
+  Beam integrator (D3): 33261 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run249_10150_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 61746 counts (102.91 cps)
+                    D2: 51780 counts (86.3 cps)
+  Discarded events: D1: 46 counts
+                    D2: 42 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run250_10200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................................Done.
+  Running time: 661 s
+  Valid events:     D1: 1050931 counts (1589.91 cps)
+                    D2: 2395780 counts (3624.48 cps)
+  Discarded events: D1: 16154 counts
+                    D2: 85340 counts
+  Beam integrator (D3): 35530 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run251_10200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 61337 counts (102.228 cps)
+                    D2: 51556 counts (85.9267 cps)
+  Discarded events: D1: 53 counts
+                    D2: 40 counts
+  Beam integrator (D3): 10 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run252_10250
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..................................Done.
+  Running time: 660 s
+  Valid events:     D1: 970330 counts (1470.2 cps)
+                    D2: 2259407 counts (3423.34 cps)
+  Discarded events: D1: 13248 counts
+                    D2: 73965 counts
+  Beam integrator (D3): 31714 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run253_10250_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 61149 counts (101.915 cps)
+                    D2: 50859 counts (84.765 cps)
+  Discarded events: D1: 51 counts
+                    D2: 50 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run254_10300
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................................Done.
+  Running time: 720 s
+  Valid events:     D1: 1255938 counts (1744.36 cps)
+                    D2: 2800371 counts (3889.4 cps)
+  Discarded events: D1: 20426 counts
+                    D2: 104534 counts
+  Beam integrator (D3): 32959 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run255_10300_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 61215 counts (102.025 cps)
+                    D2: 51855 counts (86.425 cps)
+  Discarded events: D1: 50 counts
+                    D2: 35 counts
+  Beam integrator (D3): 3 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run256_10350
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................................................................................................Done.
+  Running time: 720 s
+  Valid events:     D1: 3371140 counts (4682.14 cps)
+                    D2: 6233986 counts (8658.31 cps)
+  Discarded events: D1: 158045 counts
+                    D2: 574642 counts
+  Beam integrator (D3): 33167 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run257_10350_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 601 s
+  Valid events:     D1: 65491 counts (108.97 cps)
+                    D2: 58292 counts (96.9917 cps)
+  Discarded events: D1: 61 counts
+                    D2: 49 counts
+  Beam integrator (D3): 7 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run258_10400
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......................................................................................Done.
+  Running time: 720 s
+  Valid events:     D1: 2748329 counts (3817.12 cps)
+                    D2: 5272182 counts (7322.48 cps)
+  Discarded events: D1: 103448 counts
+                    D2: 397211 counts
+  Beam integrator (D3): 38880 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run259_10400_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 601 s
+  Valid events:     D1: 66212 counts (110.17 cps)
+                    D2: 59720 counts (99.3677 cps)
+  Discarded events: D1: 63 counts
+                    D2: 41 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run260_10450
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............................................................................................................Done.
+  Running time: 723 s
+  Valid events:     D1: 3492462 counts (4830.51 cps)
+                    D2: 6430320 counts (8893.94 cps)
+  Discarded events: D1: 172372 counts
+                    D2: 618412 counts
+  Beam integrator (D3): 36398 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run261_10450_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 601 s
+  Valid events:     D1: 68253 counts (113.566 cps)
+                    D2: 62709 counts (104.341 cps)
+  Discarded events: D1: 62 counts
+                    D2: 56 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run262_10500
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ............................................................................Done.
+  Running time: 721 s
+  Valid events:     D1: 2329495 counts (3230.92 cps)
+                    D2: 4765032 counts (6608.92 cps)
+  Discarded events: D1: 71885 counts
+                    D2: 313134 counts
+  Beam integrator (D3): 37021 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run263_10500_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 601 s
+  Valid events:     D1: 67044 counts (111.554 cps)
+                    D2: 60999 counts (101.496 cps)
+  Discarded events: D1: 68 counts
+                    D2: 48 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run264_10550
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........................................................Done.
+  Running time: 721 s
+  Valid events:     D1: 1711009 counts (2373.11 cps)
+                    D2: 3738881 counts (5185.69 cps)
+  Discarded events: D1: 38314 counts
+                    D2: 191182 counts
+  Beam integrator (D3): 37863 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run265_10550_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 65945 counts (109.908 cps)
+                    D2: 59493 counts (99.155 cps)
+  Discarded events: D1: 69 counts
+                    D2: 53 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run266_10600
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................................................Done.
+  Running time: 721 s
+  Valid events:     D1: 1783450 counts (2473.58 cps)
+                    D2: 3780801 counts (5243.83 cps)
+  Discarded events: D1: 41877 counts
+                    D2: 193502 counts
+  Beam integrator (D3): 38828 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run267_10600_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 66065 counts (110.108 cps)
+                    D2: 59434 counts (99.0567 cps)
+  Discarded events: D1: 69 counts
+                    D2: 50 counts
+  Beam integrator (D3): 6 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run268_10650
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....................................................................................................................................Done.
+  Running time: 721 s
+  Valid events:     D1: 4353680 counts (6038.39 cps)
+                    D2: 7703186 counts (10684 cps)
+  Discarded events: D1: 263978 counts
+                    D2: 893138 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run269_10650_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 71220 counts (118.7 cps)
+                    D2: 66873 counts (111.455 cps)
+  Discarded events: D1: 76 counts
+                    D2: 63 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run270_10700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...................................................Done.
+  Running time: 720 s
+  Valid events:     D1: 1477051 counts (2051.46 cps)
+                    D2: 3399169 counts (4721.07 cps)
+  Discarded events: D1: 28135 counts
+                    D2: 155311 counts
+  Beam integrator (D3): 35688 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run271_10700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 601 s
+  Valid events:     D1: 67246 counts (111.89 cps)
+                    D2: 61444 counts (102.236 cps)
+  Discarded events: D1: 82 counts
+                    D2: 66 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run272_152Eu_SEG5414
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............Done.
+  Running time: 1141 s
+  Valid events:     D1: 532966 counts (467.104 cps)
+                    D2: 826424 counts (724.298 cps)
+  Discarded events: D1: 2228 counts
+                    D2: 5480 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run273_bkg_before_thick
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 1294 s
+  Valid events:     D1: 126971 counts (98.1229 cps)
+                    D2: 101832 counts (78.6955 cps)
+  Discarded events: D1: 169 counts
+                    D2: 132 counts
+  Beam integrator (D3): 9 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run275_10700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .............................Done.
+  Running time: 323 s
+  Valid events:     D1: 998854 counts (3092.43 cps)
+                    D2: 1705848 counts (5281.26 cps)
+  Discarded events: D1: 29086 counts
+                    D2: 87834 counts
+  Beam integrator (D3): 9286 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run276_10700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 718 s
+  Valid events:     D1: 69186 counts (96.3593 cps)
+                    D2: 56809 counts (79.1212 cps)
+  Discarded events: D1: 73 counts
+                    D2: 48 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run277_11000
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...............................................Done.
+  Running time: 427 s
+  Valid events:     D1: 1599180 counts (3745.15 cps)
+                    D2: 2826413 counts (6619.23 cps)
+  Discarded events: D1: 56449 counts
+                    D2: 185251 counts
+  Beam integrator (D3): 13163 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run278_11000_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 658 s
+  Valid events:     D1: 64415 counts (97.8951 cps)
+                    D2: 53599 counts (81.4574 cps)
+  Discarded events: D1: 55 counts
+                    D2: 52 counts
+  Beam integrator (D3): 7 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run279_11300
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................................................................Done.
+  Running time: 600 s
+  Valid events:     D1: 2029315 counts (3382.19 cps)
+                    D2: 4326280 counts (7210.47 cps)
+  Discarded events: D1: 65233 counts
+                    D2: 313517 counts
+  Beam integrator (D3): 13364 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run280_11300_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 61494 counts (102.49 cps)
+                    D2: 56582 counts (94.3033 cps)
+  Discarded events: D1: 56 counts
+                    D2: 64 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run281_11600
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......................................................................Done.
+  Running time: 600 s
+  Valid events:     D1: 2199691 counts (3666.15 cps)
+                    D2: 4351407 counts (7252.35 cps)
+  Discarded events: D1: 77707 counts
+                    D2: 318593 counts
+  Beam integrator (D3): 13494 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run282_11600_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 63782 counts (106.303 cps)
+                    D2: 64150 counts (106.917 cps)
+  Discarded events: D1: 46 counts
+                    D2: 66 counts
+  Beam integrator (D3): 90 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run283_11900
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .............................................................................Done.
+  Running time: 601 s
+  Valid events:     D1: 2130982 counts (3545.73 cps)
+                    D2: 4964144 counts (8259.81 cps)
+  Discarded events: D1: 72782 counts
+                    D2: 424341 counts
+  Beam integrator (D3): 10304 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run284_11900_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 64921 counts (108.202 cps)
+                    D2: 76238 counts (127.063 cps)
+  Discarded events: D1: 71 counts
+                    D2: 92 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run285_12200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................................................................Done.
+  Running time: 540 s
+  Valid events:     D1: 2178692 counts (4034.61 cps)
+                    D2: 4759482 counts (8813.86 cps)
+  Discarded events: D1: 85509 counts
+                    D2: 437850 counts
+  Beam integrator (D3): 11049 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run286_12200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 540 s
+  Valid events:     D1: 60468 counts (111.978 cps)
+                    D2: 80509 counts (149.091 cps)
+  Discarded events: D1: 59 counts
+                    D2: 117 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run287_12500
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .............................................................................Done.
+  Running time: 600 s
+  Valid events:     D1: 2393958 counts (3989.93 cps)
+                    D2: 4801493 counts (8002.49 cps)
+  Discarded events: D1: 91316 counts
+                    D2: 395180 counts
+  Beam integrator (D3): 12419 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run288_12500_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 541 s
+  Valid events:     D1: 61053 counts (112.852 cps)
+                    D2: 102265 counts (189.03 cps)
+  Discarded events: D1: 53 counts
+                    D2: 213 counts
+  Beam integrator (D3): 12 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run289_12800
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........................................................................Done.
+  Running time: 600 s
+  Valid events:     D1: 2272206 counts (3787.01 cps)
+                    D2: 4557206 counts (7595.34 cps)
+  Discarded events: D1: 84601 counts
+                    D2: 362164 counts
+  Beam integrator (D3): 11468 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run290_12800_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 480 s
+  Valid events:     D1: 54687 counts (113.931 cps)
+                    D2: 95962 counts (199.921 cps)
+  Discarded events: D1: 55 counts
+                    D2: 178 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run291_13100
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................................................................................Done.
+  Running time: 480 s
+  Valid events:     D1: 2654568 counts (5530.35 cps)
+                    D2: 5547924 counts (11558.2 cps)
+  Discarded events: D1: 145289 counts
+                    D2: 704310 counts
+  Beam integrator (D3): 10824 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run292_13100_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 600 s
+  Valid events:     D1: 73011 counts (121.685 cps)
+                    D2: 147869 counts (246.448 cps)
+  Discarded events: D1: 99 counts
+                    D2: 327 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run294_13400
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................................................................Done.
+  Running time: 856 s
+  Valid events:     D1: 2263601 counts (2644.39 cps)
+                    D2: 4710730 counts (5503.19 cps)
+  Discarded events: D1: 87391 counts
+                    D2: 404247 counts
+  Beam integrator (D3): 7438 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run295_13400_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 801 s
+  Valid events:     D1: 90857 counts (113.429 cps)
+                    D2: 163225 counts (203.777 cps)
+  Discarded events: D1: 103 counts
+                    D2: 330 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run296_13700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........................................................................................................................................................................................................................Done.
+  Running time: 858 s
+  Valid events:     D1: 5373550 counts (6262.88 cps)
+                    D2: 13061534 counts (15223.2 cps)
+  Discarded events: D1: 391587 counts
+                    D2: 2768207 counts
+  Beam integrator (D3): 21866 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run297_13700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 534 s
+  Valid events:     D1: 74948 counts (140.352 cps)
+                    D2: 214547 counts (401.773 cps)
+  Discarded events: D1: 105 counts
+                    D2: 783 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run298_14000
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............................................................................................................................................................................................................................................................................................................................................................................................Done.
+  Running time: 1594 s
+  Valid events:     D1: 9525698 counts (5975.97 cps)
+                    D2: 23081967 counts (14480.5 cps)
+  Discarded events: D1: 694666 counts
+                    D2: 4834767 counts
+  Beam integrator (D3): 30128 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run299_14000_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................Done.
+  Running time: 3919 s
+  Valid events:     D1: 552096 counts (140.877 cps)
+                    D2: 1376468 counts (351.229 cps)
+  Discarded events: D1: 934 counts
+                    D2: 5574 counts
+  Beam integrator (D3): 235 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run300_14300
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................................................................................................................................................................................................Done.
+  Running time: 1105 s
+  Valid events:     D1: 5335862 counts (4828.83 cps)
+                    D2: 12395857 counts (11218 cps)
+  Discarded events: D1: 254599 counts
+                    D2: 1524609 counts
+  Beam integrator (D3): 14891 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run301_14300_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 529 s
+  Valid events:     D1: 73628 counts (139.183 cps)
+                    D2: 199983 counts (378.04 cps)
+  Discarded events: D1: 78 counts
+                    D2: 730 counts
+  Beam integrator (D3): 9 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run302_14600
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ................................................................................................................................................Done.
+  Running time: 664 s
+  Valid events:     D1: 3788683 counts (5705.85 cps)
+                    D2: 8986004 counts (13533.1 cps)
+  Discarded events: D1: 214503 counts
+                    D2: 1387521 counts
+  Beam integrator (D3): 8854 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run303_14600_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 720 s
+  Valid events:     D1: 101398 counts (140.831 cps)
+                    D2: 291839 counts (405.332 cps)
+  Discarded events: D1: 132 counts
+                    D2: 1043 counts
+  Beam integrator (D3): 4 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run304_14900
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........................................................................................................................................................................Done.
+  Running time: 838 s
+  Valid events:     D1: 4301390 counts (5132.92 cps)
+                    D2: 10815439 counts (12906.3 cps)
+  Discarded events: D1: 218366 counts
+                    D2: 1594416 counts
+  Beam integrator (D3): 8154 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run305_14900_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 611 s
+  Valid events:     D1: 87594 counts (143.362 cps)
+                    D2: 260964 counts (427.11 cps)
+  Discarded events: D1: 105 counts
+                    D2: 1062 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run306_15200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...................................................................................................................................................................Done.
+  Running time: 678 s
+  Valid events:     D1: 4249100 counts (6267.11 cps)
+                    D2: 9982430 counts (14723.3 cps)
+  Discarded events: D1: 268599 counts
+                    D2: 1728401 counts
+  Beam integrator (D3): 5689 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run307_15200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....Done.
+  Running time: 720 s
+  Valid events:     D1: 102109 counts (141.818 cps)
+                    D2: 298729 counts (414.901 cps)
+  Discarded events: D1: 127 counts
+                    D2: 1185 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run308_15500
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .................................................................................................................................................................................................................Done.
+  Running time: 1104 s
+  Valid events:     D1: 5229137 counts (4736.54 cps)
+                    D2: 13535453 counts (12260.4 cps)
+  Discarded events: D1: 243189 counts
+                    D2: 1855552 counts
+  Beam integrator (D3): 7028 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run309_15500_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 653 s
+  Valid events:     D1: 95849 counts (146.783 cps)
+                    D2: 271267 counts (415.417 cps)
+  Discarded events: D1: 148 counts
+                    D2: 1048 counts
+  Beam integrator (D3): 6 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run310_15800
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................................................................................................................................................................................................................................................Done.
+  Running time: 1362 s
+  Valid events:     D1: 6572351 counts (4825.51 cps)
+                    D2: 15827449 counts (11620.7 cps)
+  Discarded events: D1: 311252 counts
+                    D2: 2029951 counts
+  Beam integrator (D3): 6230 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run311_15800_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......Done.
+  Running time: 970 s
+  Valid events:     D1: 134815 counts (138.985 cps)
+                    D2: 370602 counts (382.064 cps)
+  Discarded events: D1: 159 counts
+                    D2: 1320 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run312_16100
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........................................................................................................................................................................................................................................................................Done.
+  Running time: 1429 s
+  Valid events:     D1: 6470659 counts (4528.1 cps)
+                    D2: 17356086 counts (12145.6 cps)
+  Discarded events: D1: 290875 counts
+                    D2: 2395061 counts
+  Beam integrator (D3): 6223 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run313_16100_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 731 s
+  Valid events:     D1: 106259 counts (145.361 cps)
+                    D2: 278650 counts (381.19 cps)
+  Discarded events: D1: 124 counts
+                    D2: 950 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run314_16400
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ................................................................................................................................................................................................................................................................................................................................................................................Done.
+  Running time: 1417 s
+  Valid events:     D1: 8487348 counts (5989.66 cps)
+                    D2: 22519209 counts (15892.2 cps)
+  Discarded events: D1: 598845 counts
+                    D2: 5141363 counts
+  Beam integrator (D3): 6502 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run315_16400_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 563 s
+  Valid events:     D1: 87649 counts (155.682 cps)
+                    D2: 247355 counts (439.352 cps)
+  Discarded events: D1: 144 counts
+                    D2: 1012 counts
+  Beam integrator (D3): 12 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run316_16700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......................................................................................................................................................................................................Done.
+  Running time: 1371 s
+  Valid events:     D1: 4762626 counts (3473.83 cps)
+                    D2: 13073300 counts (9535.59 cps)
+  Discarded events: D1: 204147 counts
+                    D2: 1758589 counts
+  Beam integrator (D3): 3587 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run317_16700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 785 s
+  Valid events:     D1: 104550 counts (133.185 cps)
+                    D2: 280996 counts (357.957 cps)
+  Discarded events: D1: 128 counts
+                    D2: 974 counts
+  Beam integrator (D3): 121 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run318_10700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................................................................................................................Done.
+  Running time: 600 s
+  Valid events:     D1: 4030492 counts (6717.49 cps)
+                    D2: 6793044 counts (11321.7 cps)
+  Discarded events: D1: 337750 counts
+                    D2: 1048473 counts
+  Beam integrator (D3): 32212 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run319_10700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 607 s
+  Valid events:     D1: 76637 counts (126.255 cps)
+                    D2: 99531 counts (163.972 cps)
+  Discarded events: D1: 83 counts
+                    D2: 154 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run320_10200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...................................................................................................Done.
+  Running time: 600 s
+  Valid events:     D1: 3218810 counts (5364.68 cps)
+                    D2: 5405628 counts (9009.38 cps)
+  Discarded events: D1: 283009 counts
+                    D2: 864408 counts
+  Beam integrator (D3): 32707 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run321_10200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 71409 counts (119.015 cps)
+                    D2: 79766 counts (132.943 cps)
+  Discarded events: D1: 90 counts
+                    D2: 102 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run322_9700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................................................................................Done.
+  Running time: 600 s
+  Valid events:     D1: 3060578 counts (5100.96 cps)
+                    D2: 5337241 counts (8895.4 cps)
+  Discarded events: D1: 153759 counts
+                    D2: 497126 counts
+  Beam integrator (D3): 30029 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run323_9700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 601 s
+  Valid events:     D1: 70867 counts (117.915 cps)
+                    D2: 75198 counts (125.121 cps)
+  Discarded events: D1: 68 counts
+                    D2: 119 counts
+  Beam integrator (D3): 107 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run324_9200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....................................................................Done.
+  Running time: 600 s
+  Valid events:     D1: 2413402 counts (4022.34 cps)
+                    D2: 4037795 counts (6729.66 cps)
+  Discarded events: D1: 94391 counts
+                    D2: 277514 counts
+  Beam integrator (D3): 29239 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run325_9200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 67895 counts (113.158 cps)
+                    D2: 66975 counts (111.625 cps)
+  Discarded events: D1: 79 counts
+                    D2: 79 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run326_8700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................................................Done.
+  Running time: 600 s
+  Valid events:     D1: 1806728 counts (3011.21 cps)
+                    D2: 3139382 counts (5232.3 cps)
+  Discarded events: D1: 54027 counts
+                    D2: 168981 counts
+  Beam integrator (D3): 26307 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run327_8700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 65281 counts (108.802 cps)
+                    D2: 61661 counts (102.768 cps)
+  Discarded events: D1: 80 counts
+                    D2: 67 counts
+  Beam integrator (D3): 1 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run328_8200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....................................Done.
+  Running time: 600 s
+  Valid events:     D1: 1332555 counts (2220.93 cps)
+                    D2: 2203439 counts (3672.4 cps)
+  Discarded events: D1: 28427 counts
+                    D2: 80396 counts
+  Beam integrator (D3): 23307 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run329_8200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 63142 counts (105.237 cps)
+                    D2: 57114 counts (95.19 cps)
+  Discarded events: D1: 64 counts
+                    D2: 53 counts
+  Beam integrator (D3): 64 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run330_7700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ................................Done.
+  Running time: 600 s
+  Valid events:     D1: 1082858 counts (1804.76 cps)
+                    D2: 1941813 counts (3236.36 cps)
+  Discarded events: D1: 18087 counts
+                    D2: 59175 counts
+  Beam integrator (D3): 20557 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run331_7700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 600 s
+  Valid events:     D1: 62617 counts (104.362 cps)
+                    D2: 55917 counts (93.195 cps)
+  Discarded events: D1: 60 counts
+                    D2: 48 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run332_7200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......................Done.
+  Running time: 600 s
+  Valid events:     D1: 821538 counts (1369.23 cps)
+                    D2: 1340372 counts (2233.95 cps)
+  Discarded events: D1: 10544 counts
+                    D2: 27829 counts
+  Beam integrator (D3): 24132 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run333_7200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 601 s
+  Valid events:     D1: 61461 counts (102.265 cps)
+                    D2: 53107 counts (88.3644 cps)
+  Discarded events: D1: 48 counts
+                    D2: 47 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run334_6700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..................Done.
+  Running time: 606 s
+  Valid events:     D1: 655687 counts (1081.99 cps)
+                    D2: 1045375 counts (1725.04 cps)
+  Discarded events: D1: 6593 counts
+                    D2: 16989 counts
+  Beam integrator (D3): 23024 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run335_6700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 641 s
+  Valid events:     D1: 63782 counts (99.5039 cps)
+                    D2: 54356 counts (84.7988 cps)
+  Discarded events: D1: 65 counts
+                    D2: 69 counts
+  Beam integrator (D3): 90 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run336_6200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 603 s
+  Valid events:     D1: 288214 counts (477.967 cps)
+                    D2: 447054 counts (741.383 cps)
+  Discarded events: D1: 1382 counts
+                    D2: 3497 counts
+  Beam integrator (D3): 12856 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run337_6200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 617 s
+  Valid events:     D1: 60720 counts (98.4117 cps)
+                    D2: 50405 counts (81.6937 cps)
+  Discarded events: D1: 61 counts
+                    D2: 49 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run338_5700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..........Done.
+  Running time: 610 s
+  Valid events:     D1: 358569 counts (587.818 cps)
+                    D2: 534867 counts (876.831 cps)
+  Discarded events: D1: 2001 counts
+                    D2: 4378 counts
+  Beam integrator (D3): 23873 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run339_5700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 664 s
+  Valid events:     D1: 64898 counts (97.738 cps)
+                    D2: 53743 counts (80.9383 cps)
+  Discarded events: D1: 54 counts
+                    D2: 41 counts
+  Beam integrator (D3): 3 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run340_5200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......Done.
+  Running time: 936 s
+  Valid events:     D1: 268904 counts (287.291 cps)
+                    D2: 378666 counts (404.558 cps)
+  Discarded events: D1: 745 counts
+                    D2: 1413 counts
+  Beam integrator (D3): 23713 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run341_5200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 631 s
+  Valid events:     D1: 61433 counts (97.3582 cps)
+                    D2: 50124 counts (79.4358 cps)
+  Discarded events: D1: 67 counts
+                    D2: 41 counts
+  Beam integrator (D3): 98 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run342_4700
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 664 s
+  Valid events:     D1: 150319 counts (226.384 cps)
+                    D2: 203216 counts (306.048 cps)
+  Discarded events: D1: 280 counts
+                    D2: 578 counts
+  Beam integrator (D3): 18199 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run343_4700_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 760 s
+  Valid events:     D1: 73631 counts (96.8829 cps)
+                    D2: 59594 counts (78.4132 cps)
+  Discarded events: D1: 65 counts
+                    D2: 50 counts
+  Beam integrator (D3): 17 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run344_4200
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......Done.
+  Running time: 852 s
+  Valid events:     D1: 202748 counts (237.967 cps)
+                    D2: 275951 counts (323.886 cps)
+  Discarded events: D1: 533 counts
+                    D2: 1003 counts
+  Beam integrator (D3): 59485 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run345_4200_decay
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .Done.
+  Running time: 559 s
+  Valid events:     D1: 53683 counts (96.034 cps)
+                    D2: 43600 counts (77.9964 cps)
+  Discarded events: D1: 53 counts
+                    D2: 26 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run346_bkg_after_thick
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....Done.
+  Running time: 2608 s
+  Valid events:     D1: 238097 counts (91.2949 cps)
+                    D2: 183869 counts (70.5019 cps)
+  Discarded events: D1: 165 counts
+                    D2: 138 counts
+  Beam integrator (D3): 47 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run347_4200_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....Done.
+  Running time: 1621 s
+  Valid events:     D1: 204628 counts (126.236 cps)
+                    D2: 219896 counts (135.655 cps)
+  Discarded events: D1: 247 counts
+                    D2: 271 counts
+  Beam integrator (D3): 74360 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run349_4700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 2292 s
+  Valid events:     D1: 342337 counts (149.362 cps)
+                    D2: 402390 counts (175.563 cps)
+  Discarded events: D1: 425 counts
+                    D2: 662 counts
+  Beam integrator (D3): 120293 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run350_5200_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 2319 s
+  Valid events:     D1: 347706 counts (149.938 cps)
+                    D2: 399518 counts (172.28 cps)
+  Discarded events: D1: 509 counts
+                    D2: 648 counts
+  Beam integrator (D3): 108728 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run351_5700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 1514 s
+  Valid events:     D1: 337323 counts (222.803 cps)
+                    D2: 427282 counts (282.221 cps)
+  Discarded events: D1: 726 counts
+                    D2: 1125 counts
+  Beam integrator (D3): 42254 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run352_6200_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........Done.
+  Running time: 984 s
+  Valid events:     D1: 305912 counts (310.886 cps)
+                    D2: 425078 counts (431.99 cps)
+  Discarded events: D1: 868 counts
+                    D2: 1743 counts
+  Beam integrator (D3): 29104 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run353_6700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .................Done.
+  Running time: 1778 s
+  Valid events:     D1: 692010 counts (389.207 cps)
+                    D2: 929825 counts (522.961 cps)
+  Discarded events: D1: 2652 counts
+                    D2: 4987 counts
+  Beam integrator (D3): 47862 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run354_6800_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................Done.
+  Running time: 1817 s
+  Valid events:     D1: 962256 counts (529.585 cps)
+                    D2: 1356961 counts (746.814 cps)
+  Discarded events: D1: 4644 counts
+                    D2: 9253 counts
+  Beam integrator (D3): 57641 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run355_7200_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .................................................Done.
+  Running time: 2478 s
+  Valid events:     D1: 1888048 counts (761.924 cps)
+                    D2: 2783665 counts (1123.35 cps)
+  Discarded events: D1: 14729 counts
+                    D2: 31883 counts
+  Beam integrator (D3): 90106 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run356_7700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..................................................Done.
+  Running time: 2089 s
+  Valid events:     D1: 1935075 counts (926.316 cps)
+                    D2: 2890712 counts (1383.78 cps)
+  Discarded events: D1: 19259 counts
+                    D2: 42859 counts
+  Beam integrator (D3): 97639 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run357_8200_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............................Done.
+  Running time: 618 s
+  Valid events:     D1: 1112014 counts (1799.38 cps)
+                    D2: 1751443 counts (2834.05 cps)
+  Discarded events: D1: 28654 counts
+                    D2: 73355 counts
+  Beam integrator (D3): 30792 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run358_8200_decay_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 935 s
+  Valid events:     D1: 88374 counts (94.5176 cps)
+                    D2: 72066 counts (77.0759 cps)
+  Discarded events: D1: 75 counts
+                    D2: 58 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run359_8700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........................................Done.
+  Running time: 1311 s
+  Valid events:     D1: 1482112 counts (1130.52 cps)
+                    D2: 2453159 counts (1871.21 cps)
+  Discarded events: D1: 15309 counts
+                    D2: 42881 counts
+  Beam integrator (D3): 43612 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run360_9200_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........................................Done.
+  Running time: 1104 s
+  Valid events:     D1: 1444202 counts (1308.15 cps)
+                    D2: 2470163 counts (2237.47 cps)
+  Discarded events: D1: 18959 counts
+                    D2: 56374 counts
+  Beam integrator (D3): 37942 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run361_9700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......................................Done.
+  Running time: 613 s
+  Valid events:     D1: 1301754 counts (2123.58 cps)
+                    D2: 2251854 counts (3673.5 cps)
+  Discarded events: D1: 30973 counts
+                    D2: 95688 counts
+  Beam integrator (D3): 26453 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run362_9700_decay_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 879 s
+  Valid events:     D1: 86111 counts (97.9647 cps)
+                    D2: 72592 counts (82.5848 cps)
+  Discarded events: D1: 73 counts
+                    D2: 52 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run363_10200_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............................................Done.
+  Running time: 882 s
+  Valid events:     D1: 1324459 counts (1501.65 cps)
+                    D2: 3111813 counts (3528.13 cps)
+  Discarded events: D1: 19346 counts
+                    D2: 109005 counts
+  Beam integrator (D3): 21894 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run364_10700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .......................................Done.
+  Running time: 401 s
+  Valid events:     D1: 1264513 counts (3153.4 cps)
+                    D2: 2385756 counts (5949.52 cps)
+  Discarded events: D1: 37991 counts
+                    D2: 140680 counts
+  Beam integrator (D3): 14507 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run365_11200_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................................Done.
+  Running time: 521 s
+  Valid events:     D1: 1220965 counts (2343.5 cps)
+                    D2: 2529371 counts (4854.84 cps)
+  Discarded events: D1: 27135 counts
+                    D2: 121640 counts
+  Beam integrator (D3): 15659 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run366_11200_decay_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 910 s
+  Valid events:     D1: 119572 counts (131.398 cps)
+                    D2: 124076 counts (136.347 cps)
+  Discarded events: D1: 144 counts
+                    D2: 179 counts
+  Beam integrator (D3): 0 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run367_11700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ........................................Done.
+  Running time: 355 s
+  Valid events:     D1: 1277456 counts (3598.47 cps)
+                    D2: 2482401 counts (6992.68 cps)
+  Discarded events: D1: 44349 counts
+                    D2: 177221 counts
+  Beam integrator (D3): 10361 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run368_12700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...................................................Done.
+  Running time: 255 s
+  Valid events:     D1: 1469737 counts (5763.67 cps)
+                    D2: 3092569 counts (12127.7 cps)
+  Discarded events: D1: 84634 counts
+                    D2: 414181 counts
+  Beam integrator (D3): 7836 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run369_13700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................................................Done.
+  Running time: 124 s
+  Valid events:     D1: 1427487 counts (11512 cps)
+                    D2: 2743976 counts (22128.8 cps)
+  Discarded events: D1: 178801 counts
+                    D2: 839554 counts
+  Beam integrator (D3): 3374 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run370_13700_decay_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........Done.
+  Running time: 1344 s
+  Valid events:     D1: 232603 counts (173.068 cps)
+                    D2: 600554 counts (446.841 cps)
+  Discarded events: D1: 328 counts
+                    D2: 2384 counts
+  Beam integrator (D3): 11 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run371_14700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .........................................................................Done.
+  Running time: 679 s
+  Valid events:     D1: 1539278 counts (2266.98 cps)
+                    D2: 5254786 counts (7739.01 cps)
+  Discarded events: D1: 35075 counts
+                    D2: 441290 counts
+  Beam integrator (D3): 5635 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run372_15700_58ni
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......................................................................Done.
+  Running time: 310 s
+  Valid events:     D1: 1425794 counts (4599.34 cps)
+                    D2: 4616141 counts (14890.8 cps)
+  Discarded events: D1: 63884 counts
+                    D2: 804928 counts
+  Beam integrator (D3): 2088 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run374_15700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................................Done.
+  Running time: 321 s
+  Valid events:     D1: 787895 counts (2454.5 cps)
+                    D2: 3067916 counts (9557.37 cps)
+  Discarded events: D1: 21891 counts
+                    D2: 374227 counts
+  Beam integrator (D3): 2564 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run375_14700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...................................................................................................................................................................................................................................................................Done.
+  Running time: 1292 s
+  Valid events:     D1: 5382521 counts (4166.04 cps)
+                    D2: 17530656 counts (13568.6 cps)
+  Discarded events: D1: 218086 counts
+                    D2: 2717626 counts
+  Beam integrator (D3): 9484 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run376_13700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................................................................Done.
+  Running time: 500 s
+  Valid events:     D1: 1293296 counts (2586.59 cps)
+                    D2: 4875442 counts (9750.88 cps)
+  Discarded events: D1: 31938 counts
+                    D2: 506500 counts
+  Beam integrator (D3): 5049 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run377_12700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....................Done.
+  Running time: 599 s
+  Valid events:     D1: 429394 counts (716.851 cps)
+                    D2: 1535426 counts (2563.32 cps)
+  Discarded events: D1: 2966 counts
+                    D2: 38453 counts
+  Beam integrator (D3): 4360 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run378_11700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................Done.
+  Running time: 527 s
+  Valid events:     D1: 437965 counts (831.053 cps)
+                    D2: 1423049 counts (2700.28 cps)
+  Discarded events: D1: 3468 counts
+                    D2: 36488 counts
+  Beam integrator (D3): 5157 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run379_10700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....................................Done.
+  Running time: 710 s
+  Valid events:     D1: 800743 counts (1127.81 cps)
+                    D2: 2574689 counts (3626.32 cps)
+  Discarded events: D1: 11352 counts
+                    D2: 125422 counts
+  Beam integrator (D3): 44805 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run380_9700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...........................Done.
+  Running time: 863 s
+  Valid events:     D1: 601807 counts (697.343 cps)
+                    D2: 1964878 counts (2276.8 cps)
+  Discarded events: D1: 3973 counts
+                    D2: 41896 counts
+  Beam integrator (D3): 46270 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run381_18700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..............Done.
+  Running time: 715 s
+  Valid events:     D1: 326047 counts (456.01 cps)
+                    D2: 970695 counts (1357.62 cps)
+  Discarded events: D1: 1448 counts
+                    D2: 11950 counts
+  Beam integrator (D3): 34406 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run382_7700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. .....Done.
+  Running time: 660 s
+  Valid events:     D1: 125756 counts (190.539 cps)
+                    D2: 296114 counts (448.658 cps)
+  Discarded events: D1: 235 counts
+                    D2: 1179 counts
+  Beam integrator (D3): 19804 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run383_6700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ....Done.
+  Running time: 899 s
+  Valid events:     D1: 115487 counts (128.462 cps)
+                    D2: 200037 counts (222.511 cps)
+  Discarded events: D1: 144 counts
+                    D2: 391 counts
+  Beam integrator (D3): 28499 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run384_5700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...Done.
+  Running time: 933 s
+  Valid events:     D1: 99654 counts (106.81 cps)
+                    D2: 103646 counts (111.089 cps)
+  Discarded events: D1: 112 counts
+                    D2: 111 counts
+  Beam integrator (D3): 57381 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run385_4700_empty
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ..Done.
+  Running time: 850 s
+  Valid events:     D1: 85643 counts (100.756 cps)
+                    D2: 85197 counts (100.232 cps)
+  Discarded events: D1: 81 counts
+                    D2: 93 counts
+  Beam integrator (D3): 22511 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run386_152Eu_SEG5414
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ...............Done.
+  Running time: 1201 s
+  Valid events:     D1: 555662 counts (462.666 cps)
+                    D2: 859563 counts (715.706 cps)
+  Discarded events: D1: 2337 counts
+                    D2: 5664 counts
+  Beam integrator (D3): 2 counts
+
+
+
+    FASTER2SPECTRA v 1.0
+    --------------------
+           by A.N., 2020
+
+  File name:         Run387_152Eu_SEG7901
+  Imposed dead time: 10 us
+    Reading the converter.txt file. ......................................................................................................................................................Done.
+  Running time: 42085 s
+  Valid events:     D1: 6853541 counts (162.85 cps)
+                    D2: 8073319 counts (191.834 cps)
+  Discarded events: D1: 9930 counts
+                    D2: 14074 counts
+  Beam integrator (D3): 1067 counts
+
+
