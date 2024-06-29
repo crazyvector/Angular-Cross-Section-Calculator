@@ -9,9 +9,9 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
 
-    if (argc != 10) {
+    if (argc != 9) {
         //cerr << "To recompile the file : g++ cross_section_calculator.cpp -o cross_section_calculator" << endl;
-        //cerr << "Usage for cross section calculator: .\\Program photo_peak area, sample area, integrator, density, efficiency, dead time, outputfile, run, detector << endl;
+        //cerr << "Usage for cross section calculator: .\\Program photo_peak area, sample area, integrator, density, efficiency, dead time, outputfile, run << endl;
         
         cerr << "Eroare: Nu s-au găsit parametrii"<< endl;
 
@@ -37,7 +37,6 @@ int main(int argc, char* argv[]) {
     cout << "cross section is (with dead time correction): " << cross_section << endl;
 
     string Run = argv[8];
-    string Detector = argv[9];
 
     //write in file
     string outputFileName = argv[7];
@@ -45,7 +44,7 @@ int main(int argc, char* argv[]) {
     OutputFile.open("Resources/"+outputFileName+".txt", ios_base::app);
     
     if (OutputFile.is_open()) {
-        OutputFile << Run << " " << Detector << " " << cross_section << endl;
+        OutputFile << Run << " " << cross_section << endl;
         OutputFile.close();
     } else {
         cerr << "Unable to open file for writing!" << endl;

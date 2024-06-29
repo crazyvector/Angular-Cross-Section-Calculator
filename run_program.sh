@@ -98,8 +98,8 @@ for f in *.amplitude1; do
     # Navighează în folderul Resources/Spectre
     cd "../../" || exit
 
-    # .\\Program photo_peak area, sample area, integrator, density, efficiency, dead time, outputfile, run, detector
-    ./cross_section_calculator $photo_peak_area $sample_area $integrator_count $density $efficiency $dead_time_det1 $output_file $f detector1
+    # .\\Program photo_peak area, sample area, integrator, density, efficiency, dead time, outputfile, run
+    ./cross_section_calculator $photo_peak_area $sample_area $integrator_count $density $efficiency $dead_time_det1 $output_file $f
 
     # Navighează în folderul Resources/Spectre
     cd "Resources/Spectre" || exit
@@ -146,8 +146,8 @@ for f in *.amplitude2; do
     # Navighează în folderul Resources/Spectre
     cd "../../" || exit
 
-    # .\\Program photo_peak area, sample area, integrator, density, efficiency, dead time, outputfile, run, detector
-    ./cross_section_calculator $photo_peak_area $sample_area $integrator_count $density $efficiency $dead_time_det2 $output_file $f detector2
+    # .\\Program photo_peak area, sample area, integrator, density, efficiency, dead time, outputfile, run
+    ./cross_section_calculator $photo_peak_area $sample_area $integrator_count $density $efficiency $dead_time_det2 $output_file $f
 
     # Navighează în folderul Resources/Spectre
     cd "Resources/Spectre" || exit
