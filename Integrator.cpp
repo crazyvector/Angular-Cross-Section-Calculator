@@ -170,15 +170,12 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
     CoordinatesFile.open("Resources/Data/coordinates_" + inputFileName+ ".txt");
     
     if (CoordinatesFile.is_open()) {
-        //in order to calculate the background corectly, i start the coordinates from 0 on x axis
-        //therefore i substract the first channel
-
         //put the coordinates from the first background interval in a file
-        for (int i = 0; i <= chR1-chL1; i++) {
+        for (int i = chL1; i <= chR1; i++) {
         CoordinatesFile << i << " " << data[i] << endl;
         }
         //put the coordinates from the second background interval in a file
-        for (int i = chL2-chL1; i <= chR2-chL1; i++) {
+        for (int i = chL2; i <= chR2; i++) {
             CoordinatesFile << i << " " << data[i] << endl;
         }
         CoordinatesFile.close();
@@ -209,13 +206,14 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
     coeffs.push_back(stod(word3));
     CoefficientsFile.close();
 
-    cout << "The integral is: " << integrala << endl;
+    cout << "The integral is: " << integrala << " +/- " << sqrt(integrala)<< endl;
     plotDataAndFitQuadratic(coeffs, chL1);
 
     float y = 0;
-    float error_sigma = integrala;
+    float sigma_integral = integrala;
+    float sigma_background = 0;
 
-    for(int i = 0; i <= chR-chL; i++)
+    for(int i = chL; i <= chR; i++)
     {
         // f(x)=ax^2 + bx + c
         y = coeffs[0]*(i*i) + coeffs[1]*i + coeffs[2];
@@ -223,15 +221,18 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
         if(y>0)
         {
             integrala -= y;
-            error_sigma += y;
+            sigma_background += y;
         }
-            
     }
-    cout << "The integral with background substracted is: " << integrala << " +/- " << sqrt(error_sigma) << endl;
+    cout << sigma_integral << " " << sigma_background << endl;
+
+    //Error propagation f=integral-background => sigma = sqrt(integral+background)
+
+    cout << "The integral with background substracted is: " << integrala << " +/- " << sqrt(sigma_integral + sigma_background) << endl;
 
     //write in file
     ofstream OutputFile;
-    OutputFile.open("Resources/OutputFile.txt", ios_base::app);
+    OutputFile.open("Resources/"+outputFileName+".txt", ios_base::app);
     
     if (OutputFile.is_open()) {
         OutputFile << inputFileName << " " << Energy << " " << integrala << endl;
@@ -245,27 +246,17 @@ int main(int argc, char* argv[]) {
     myClass myObject;
 
     // Program usage
-    if (argc != 9) {
+    if (argc != 10) {
         //cerr << "To recompile the file : g++ Integrator.cpp -o Integrator" << endl;
-        //cerr << "Usage for Background-Noise removal: .\\Program <input_file> <Energy> <ch_left> <ch_right> <ch_left_noise> <ch_right_noise> <ch_left_noise> <ch_right_noise>" << endl;
+        //cerr << "Usage for Background-Noise removal: .\\Program <input_file> <Energy> <ch_left> <ch_right> <ch_left_noise> <ch_right_noise> <ch_left_noise> <ch_right_noise> <outputfile>" << endl;
         
         cerr << "Eroare: Nu s-au găsit parametrii pentru spectrul " << argv[1] << endl;
-
-        //write in file
-        ofstream OutputFile;
-        OutputFile.open("Resources/OutputFile.txt", ios_base::app);
-        
-        if (OutputFile.is_open()) {
-            OutputFile << argv[1] << " !Erorr parameteres not found!" << endl;
-            OutputFile.close();
-        } else {
-            cerr << "Unable to open file for writing!" << endl;
-        }
 
         return 1;
     }
 
     myObject.setInputFile(argv[1]);
+    myObject.setOutputFile(argv[9]);
     myObject.setChL(stoi(argv[3]));
     myObject.setChR(stoi(argv[4]));
     myObject.setEnergy(stoi(argv[2]));
