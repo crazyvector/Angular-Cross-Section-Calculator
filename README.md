@@ -4,7 +4,7 @@ Program for Integrating and Subtracting the Background of Gamma Peaks and then c
 
 In the input file, we provide the parameters for spectrum analysis.
 We will get one file for each detector. In each file, the spectrum name, energy, and integral after background subtraction will be displayed.
-In the output file, run number, detector and cross-section will be displayed.
+It will be the same for cross-section calculations. One file for each detector, with the Run number and cross section.
 
 -------------------------------------------------------------------------------------------------------------------
 
