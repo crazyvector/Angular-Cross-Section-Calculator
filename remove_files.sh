@@ -38,8 +38,9 @@ if [ -d "$folder4" ]; then
     # Șterge toate fișierele și subfolderele din directorul țintă
     rm -rf "$folder4"/detector1.txt
     rm -rf "$folder4"/detector2.txt
-    rm -rf "$folder4"/output_file.txt
-    echo "Am sters fisierele detector1.txt, detector2.txt si output_file"
+    rm -rf "$folder4"/cross_section_detector1.txt
+    rm -rf "$folder4"/cross_section_detector2.txt
+    echo "Am sters fisierele detector1.txt, detector2.txt, cross_section_detector1, cross_section_detector2"
 else
     echo "Directorul $folder4 nu există."
 fi
