@@ -67,7 +67,7 @@ for f in *.amplitude1; do
     
     echo "Procesând fișierul: $f"
 
-    output_file="output_file"
+    output_file="cross_section_detector1"
 
     search_filename=$f
     search_filename=$(strip_last_11 "$search_filename")
@@ -115,7 +115,7 @@ for f in *.amplitude2; do
     
     echo "Procesând fișierul: $f"
 
-    output_file="output_file"
+    output_file="cross_section_detector2"
 
     search_filename=$f
     search_filename=$(strip_last_11 "$search_filename")
