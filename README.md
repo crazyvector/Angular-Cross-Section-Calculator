@@ -4,20 +4,20 @@ We included programs for efficiency calculation and a batch file for converting 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In the input file, we provide the parameters for spectrum analysis.
-We will get one file for each detector. In each file, the spectrum name, energy, and integral after background subtraction will be displayed.
-It will be the same for cross-section calculations. One file for each detector, with the Run number and cross section.
-In the end we get a file with angular cross-section data and plot the cross-sections for 2 detectors and the angular cross-section, with error bars.
+In the input file, we provide the parameters for spectrum analysis.  
+We will get one file for each detector. In each file, the spectrum name, energy, and integral after background subtraction will be displayed.  
+It will be the same for cross-section calculations. One file for each detector, with the Run number and cross section.  
+In the end we get a file with angular cross-section data and plot the cross-sections for 2 detectors and the angular cross-section, with error bars.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-We have added .sh scripts for running the program on Linux.
-The C++ programs can be compiled using g++ program_name.cpp -o program_name
+We have added .sh scripts for running the program on Linux.  
+The C++ programs can be compiled using g++ program_name.cpp -o program_name  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-To run the program, change the input file and then run ./run_program.sh in the main folder.
-** To store it in a log file, run ./run_program.sh > log.txt in the main folder.**
+To run the program, change the input file and then run ./run_program.sh in the main folder.  
+** To store it in a log file, run ./run_program.sh > log.txt in the main folder.**  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
