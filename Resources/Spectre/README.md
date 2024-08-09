@@ -1,1 +1,1 @@
-here are some examples of spectrum
+Here are some examples of spectrum
