@@ -1,5 +1,5 @@
 # Gamma-peak-integrator & Angular Cross section Calculator & Efficiency Calculator & Raw data conversion file
-Program for Integrating and Subtracting the Background of Gamma Peaks and then calculating the Angular Cross-Section.
+Program for Integrating and Subtracting the Background of Gamma Peaks and then calculating the Angular Cross-Section.  
 We included programs for efficiency calculation and a batch file for converting the raw files.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,6 +18,9 @@ The C++ programs can be compiled using g++ program_name.cpp -o program_name
 
 To run the program, change the input file and then run ./run_program.sh in the main folder.  
 ** To store it in a log file, run ./run_program.sh > log.txt in the main folder.**  
+
+To convert the raw files, you need different programs that were not included in this repository. They are convert.cpp and faster2spectra.cpp.  
+To run the program, run ./conversie.sh in the main folder.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
