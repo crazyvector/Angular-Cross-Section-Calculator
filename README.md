@@ -27,7 +27,7 @@ To run the program, run ./conversie.sh in the main folder.
 # Steps to use the program
 
 1. Update the input file in Resources foulder
-2. Update the range for areal density, sample atomic mass, efficienc for detector 1 and 2 in ./run_program.sh from the main folder
+2. Update the range for areal density, sample atomic mass, efficiency for detector 1 and 2 in ./run_program.sh from the main folder
 3. Provide the convert2txt_ns.txt (integrator count) and deadTime_det1_0.3.txt, deadTime_det2_0.3.txt (dead time for 2 detectors) in Resources/SetupFiles folder
    
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
