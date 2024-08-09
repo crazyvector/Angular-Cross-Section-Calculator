@@ -1,1 +1,1 @@
-Here i will add the files I need
+Here i will (automatically) add the files I need (coefficients, coordinates, data_file)
