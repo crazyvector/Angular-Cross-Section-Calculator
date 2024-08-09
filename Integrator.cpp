@@ -18,7 +18,7 @@ public:
     // functions to set private variables
     void setInputFile(string value) { inputFileName = value; }
     void setOutputFile(string value) { outputFileName = value; }
-    void setEnergy(int value) { Energy = value; }
+    void setEnergy(float value) { Energy = value; }
     void setChL(int value) { chL = value; }
     void setChR(int value) { chR = value; }
 
@@ -36,7 +36,7 @@ private:
     vector<int> data;           // input file data stored in a vector
     int nrLines = 0;            // number of lines input file
     int integrala = 0;          // integral between chL and chR
-    int Energy = 0;             // Energy from user input
+    float Energy = 0;             // Energy from user input
 
     //functions used for data processing and plot
     void generateDataFile(const vector<int>& yValues, const string& filename, int CHL1, int CHR1, int CHL2, int CHR2);
@@ -100,7 +100,7 @@ void myClass::Integrate() {
         integrala += data[i];
     }
 
-    cout << "Integral between the limits " << chL << " and " << chR << " : " << integrala << endl;
+    //cout << "Integral between the limits " << chL << " and " << chR << " : " << integrala << endl;
 }
 
 void myClass::generateDataFile(const vector<int>& yValues, const string& filename, int CHL1, int CHR1, int CHL2, int CHR2) {
@@ -128,8 +128,8 @@ void myClass::plotDataAndFitQuadratic(const vector<double>& coeffs, int CHL) {
     scriptFile << "set xlabel 'X'\n";
     scriptFile << "set ylabel 'Y'\n";
     scriptFile << "set style data histeps\n";
-    scriptFile << "f(x) = " << coeffs[0] << "*(x-" << CHL << ")**2 + " << coeffs[1] << "*(x-" << CHL << ") + " << coeffs[2] << "\n";
-    scriptFile << "plot["<< chL << ":" << chR <<"] 'Resources/Data/coordinates_"+ inputFileName +".txt' with points title 'Fond', '" << "Resources/Spectre/"+inputFileName <<"' title 'Data', f(x) with lines title 'Quadratic'\n";
+    scriptFile << "f(x) = " << coeffs[0] << "*x**2 + (" << coeffs[1] << ")*x + (" << coeffs[2] << ")\n";
+    scriptFile << "plot["<< chL-20 << ":" << chR+20 <<"] 'Resources/Data/coordinates_"+ inputFileName +".txt' with points title 'Fond', '" << "Resources/Spectre/"+inputFileName <<"' title 'Data', f(x) with lines title 'Quadratic'\n";
     scriptFile.close();
 
     system("gnuplot Scripts/plot_script_quadratic.gp");
@@ -171,11 +171,11 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
     
     if (CoordinatesFile.is_open()) {
         //put the coordinates from the first background interval in a file
-        for (int i = chL1; i <= chR1; i++) {
+        for (int i = chL1; i < chR1; i++) {
         CoordinatesFile << i << " " << data[i] << endl;
         }
         //put the coordinates from the second background interval in a file
-        for (int i = chL2; i <= chR2; i++) {
+        for (int i = chL2 + 1; i <= chR2; i++) {
             CoordinatesFile << i << " " << data[i] << endl;
         }
         CoordinatesFile.close();
@@ -206,7 +206,7 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
     coeffs.push_back(stod(word3));
     CoefficientsFile.close();
 
-    cout << "The integral is: " << integrala << " +/- " << sqrt(integrala)<< endl;
+    cout << "Integral between the limits " << chL << " and " << chR << " : " << integrala << " +/- " << sqrt(integrala)<< endl;
     plotDataAndFitQuadratic(coeffs, chL1);
 
     float y = 0;
@@ -224,7 +224,6 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
             sigma_background += y;
         }
     }
-    cout << sigma_integral << " " << sigma_background << endl;
 
     //Error propagation f=integral-background => sigma = sqrt(integral+background)
 
@@ -235,7 +234,7 @@ void myClass::calculateBackground(int chL1, int chR1, int chL2, int chR2) {
     OutputFile.open("Resources/"+outputFileName+".txt", ios_base::app);
     
     if (OutputFile.is_open()) {
-        OutputFile << inputFileName << " " << Energy << " " << integrala << endl;
+        OutputFile << inputFileName.substr(0, inputFileName.length() - 16) << " " << Energy << " " << integrala << " +/- " << sqrt(sigma_integral + sigma_background) << endl;
         OutputFile.close();
     } else {
         cerr << "Unable to open file for writing!" << endl;
@@ -250,7 +249,7 @@ int main(int argc, char* argv[]) {
         //cerr << "To recompile the file : g++ Integrator.cpp -o Integrator" << endl;
         //cerr << "Usage for Background-Noise removal: .\\Program <input_file> <Energy> <ch_left> <ch_right> <ch_left_noise> <ch_right_noise> <ch_left_noise> <ch_right_noise> <outputfile>" << endl;
         
-        cerr << "Eroare: Nu s-au găsit parametrii pentru spectrul " << argv[1] << endl;
+        cerr << "Error: Spectrum parameters not found " << argv[1] << endl;
 
         return 1;
     }
@@ -259,7 +258,7 @@ int main(int argc, char* argv[]) {
     myObject.setOutputFile(argv[9]);
     myObject.setChL(stoi(argv[3]));
     myObject.setChR(stoi(argv[4]));
-    myObject.setEnergy(stoi(argv[2]));
+    myObject.setEnergy(stof(argv[2]));
     myObject.getData();
     myObject.getIntegrala();
     myObject.calculateBackground(stoi(argv[5]), stoi(argv[6]), stoi(argv[7]), stoi(argv[8]));

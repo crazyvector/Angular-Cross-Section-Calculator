@@ -5,14 +5,17 @@
 #include <algorithm>
 
 int main(int argc, char* argv[]) {
+
+    //cerr << "To recompile the file : g++ datagrepintegrator.cpp -o datagrepintegrator" << endl;
+
     std::string inputFile = argv[1];
     std::string outputFile = argv[2];
 
-    std::ifstream input("Resources/SetupFiles/" + inputFile); // Numele fisierului de intrare
-    std::ofstream output("Resources/SetupFiles/" + outputFile ); // Numele fisierului de iesire
+    std::ifstream input("Resources/SetupFiles/" + inputFile); // Input file name
+    std::ofstream output("Resources/SetupFiles/" + outputFile ); // Output file name
 
     if (!input.is_open() || !output.is_open()) {
-        std::cerr << "Nu s-a putut deschide fisierul!" << std::endl;
+        std::cerr << "Could not open the file!" << std::endl;
         return 1;
     }
 
@@ -23,20 +26,20 @@ int main(int argc, char* argv[]) {
         size_t pos;
         std::string searchStr;
 
-        // Gasim filename
+        // Find filename
         searchStr = "File name:";
         pos = line.find(searchStr);
 
         if (pos != std::string::npos) {
-            // Mergem la finalul secvenței găsite
+            // We go to the end of the found sequence
             pos += searchStr.length();
             
-            // Sărim peste spațiile rămase (dacă există)
+            // Skip the remaining spaces (if any)
             while (pos < line.length() && line[pos] == ' ') {
                 ++pos;
             }
 
-            // Extragem următorul cuvânt
+            // Extract the following word
             std::string filename;
             while (pos < line.length() && line[pos] != ' ') {
                 filename += line[pos];
@@ -46,20 +49,20 @@ int main(int argc, char* argv[]) {
             output << filename << " ";
         }
 
-        // Gasim numarul de count-uri
+        // Find the number of counts
         searchStr = "Beam integrator (D3):";
         pos = line.find(searchStr);
 
         if (pos != std::string::npos) {
-            // Mergem la finalul secvenței găsite
+            // We go to the end of the found sequence
             pos += searchStr.length();
             
-            // Sărim peste spațiile rămase (dacă există)
+            // Skip the remaining spaces (if any)
             while (pos < line.length() && line[pos] == ' ') {
                 ++pos;
             }
 
-            // Extragem următorul cuvânt
+            // Extract the following word
             std::string counts;
             while (pos < line.length() && line[pos] != ' ') {
                 counts += line[pos];
@@ -71,11 +74,11 @@ int main(int argc, char* argv[]) {
 
     }
 
-    // Inchidem fisierele
+    // Close files
     input.close();
     output.close();
 
-    std::cout << "Operatiune finalizata cu succes!" << std::endl;
+    std::cout << "Operation successfully completed!" << std::endl;
 
     return 0;
 }

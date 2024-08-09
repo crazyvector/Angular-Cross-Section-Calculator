@@ -1,0 +1,862 @@
+All files and subfolders in Images have been deleted.
+All files and subfolders in Resources/Data have been deleted.
+All files and subfolders in Scripts have been deleted.
+I deleted the files detector1.txt, detector2.txt, cross_section_detector1, cross_section_detector2, angular_cross_section.txt, angular_cross_section.png, cross_section.png
+Operation successfully completed!
+Operation successfully completed!
+Operation successfully completed!
+
+--------------------------------------------------------------------------------
+
+Processing file: Run275_10700.amplitude1
+Integral between the limits 904 and 911 : 38459 +/- 196.11
+The integral with background substracted is: 34502 +/- 205.941
+
+--------------------------------------------------------------------------------
+
+Processing file: Run277_11000.amplitude1
+Integral between the limits 904 and 911 : 55665 +/- 235.934
+The integral with background substracted is: 49417 +/- 248.817
+
+--------------------------------------------------------------------------------
+
+Processing file: Run279_11300.amplitude1
+Integral between the limits 904 and 911 : 60840 +/- 246.658
+The integral with background substracted is: 52873 +/- 262.303
+
+--------------------------------------------------------------------------------
+
+Processing file: Run281_11600.amplitude1
+Integral between the limits 904 and 911 : 60771 +/- 246.518
+The integral with background substracted is: 52082 +/- 263.546
+
+--------------------------------------------------------------------------------
+
+Processing file: Run283_11900.amplitude1
+Integral between the limits 904 and 911 : 51512 +/- 226.963
+The integral with background substracted is: 42968 +/- 245.056
+
+--------------------------------------------------------------------------------
+
+Processing file: Run285_12200.amplitude1
+Integral between the limits 904 and 911 : 53087 +/- 230.406
+The integral with background substracted is: 43191 +/- 250.957
+
+--------------------------------------------------------------------------------
+
+Processing file: Run287_12500.amplitude1
+Integral between the limits 904 and 911 : 60444 +/- 245.854
+The integral with background substracted is: 50048 +/- 266.15
+
+--------------------------------------------------------------------------------
+
+Processing file: Run289_12800.amplitude1
+Integral between the limits 904 and 912 : 60249 +/- 245.457
+The integral with background substracted is: 49026 +/- 267.336
+
+--------------------------------------------------------------------------------
+
+Processing file: Run291_13100.amplitude1
+Integral between the limits 904 and 911 : 55167 +/- 234.877
+The integral with background substracted is: 42786 +/- 259.891
+
+--------------------------------------------------------------------------------
+
+Processing file: Run294_13400.amplitude1
+Integral between the limits 903 and 911 : 44067 +/- 209.921
+The integral with background substracted is: 32868 +/- 235.076
+
+--------------------------------------------------------------------------------
+
+Processing file: Run296_13700.amplitude1
+Integral between the limits 903 and 912 : 112498 +/- 335.407
+The integral with background substracted is: 90330 +/- 366.963
+
+--------------------------------------------------------------------------------
+
+Processing file: Run298_14000.amplitude1
+Integral between the limits 903 and 912 : 171512 +/- 414.14
+The integral with background substracted is: 132653 +/- 458.656
+
+--------------------------------------------------------------------------------
+
+Processing file: Run300_14300.amplitude1
+Integral between the limits 903 and 912 : 95819 +/- 309.546
+The integral with background substracted is: 74468 +/- 342.293
+
+--------------------------------------------------------------------------------
+
+Processing file: Run302_14600.amplitude1
+Integral between the limits 902 and 913 : 65946 +/- 256.8
+The integral with background substracted is: 47673 +/- 290.194
+
+--------------------------------------------------------------------------------
+
+Processing file: Run304_14900.amplitude1
+Integral between the limits 902 and 913 : 67953 +/- 260.678
+The integral with background substracted is: 47579 +/- 297.189
+
+--------------------------------------------------------------------------------
+
+Processing file: Run324_9200.amplitude1
+Integral between the limits 904 and 911 : 108683 +/- 329.671
+The integral with background substracted is: 96922 +/- 347.043
+
+--------------------------------------------------------------------------------
+
+Processing file: Run326_8700.amplitude1
+Integral between the limits 904 and 912 : 98952 +/- 314.566
+The integral with background substracted is: 87489 +/- 332.28
+
+--------------------------------------------------------------------------------
+
+Processing file: Run328_8200.amplitude1
+Integral between the limits 904 and 911 : 86927 +/- 294.834
+The integral with background substracted is: 81428 +/- 304.01
+
+--------------------------------------------------------------------------------
+
+Processing file: Run330_7700.amplitude1
+Integral between the limits 904 and 911 : 72859 +/- 269.924
+The integral with background substracted is: 68632 +/- 277.635
+
+--------------------------------------------------------------------------------
+
+Processing file: Run332_7200.amplitude1
+Integral between the limits 904 and 911 : 74358 +/- 272.687
+The integral with background substracted is: 70918 +/- 278.911
+
+--------------------------------------------------------------------------------
+
+Processing file: Run334_6700.amplitude1
+Integral between the limits 904 and 911 : 76300 +/- 276.225
+The integral with background substracted is: 74314 +/- 279.789
+
+--------------------------------------------------------------------------------
+
+Processing file: Run336_6200.amplitude1
+Integral between the limits 905 and 911 : 36869 +/- 192.013
+The integral with background substracted is: 35988 +/- 194.285
+
+--------------------------------------------------------------------------------
+
+Processing file: Run338_5700.amplitude1
+Integral between the limits 905 and 911 : 53568 +/- 231.448
+The integral with background substracted is: 52406 +/- 233.942
+
+--------------------------------------------------------------------------------
+
+Processing file: Run340_5200.amplitude1
+Integral between the limits 905 and 911 : 36853 +/- 191.971
+The integral with background substracted is: 36119 +/- 193.865
+
+--------------------------------------------------------------------------------
+
+Processing file: Run342_4700.amplitude1
+Integral between the limits 905 and 911 : 18103 +/- 134.547
+The integral with background substracted is: 17807 +/- 135.632
+
+--------------------------------------------------------------------------------
+
+Processing file: Run275_10700.amplitude2
+Integral between the limits 1269 and 1280 : 59099 +/- 243.103
+The integral with background substracted is: 52314 +/- 256.668
+
+--------------------------------------------------------------------------------
+
+Processing file: Run277_11000.amplitude2
+Integral between the limits 1269 and 1280 : 84285 +/- 290.319
+The integral with background substracted is: 72844 +/- 309.385
+
+--------------------------------------------------------------------------------
+
+Processing file: Run279_11300.amplitude2
+Integral between the limits 1269 and 1279 : 90729 +/- 301.213
+The integral with background substracted is: 75296 +/- 325.821
+
+--------------------------------------------------------------------------------
+
+Processing file: Run281_11600.amplitude2
+Integral between the limits 1269 and 1279 : 89628 +/- 299.379
+The integral with background substracted is: 73750 +/- 324.809
+
+--------------------------------------------------------------------------------
+
+Processing file: Run283_11900.amplitude2
+Integral between the limits 1269 and 1279 : 77586 +/- 278.543
+The integral with background substracted is: 60027 +/- 308.448
+
+--------------------------------------------------------------------------------
+
+Processing file: Run285_12200.amplitude2
+Integral between the limits 1269 and 1279 : 78990 +/- 281.052
+The integral with background substracted is: 59622 +/- 313.611
+
+--------------------------------------------------------------------------------
+
+Processing file: Run287_12500.amplitude2
+Integral between the limits 1269 and 1279 : 88156 +/- 296.911
+The integral with background substracted is: 69925 +/- 326.161
+
+--------------------------------------------------------------------------------
+
+Processing file: Run289_12800.amplitude2
+Integral between the limits 1269 and 1279 : 83486 +/- 288.939
+The integral with background substracted is: 67431 +/- 315.492
+
+--------------------------------------------------------------------------------
+
+Processing file: Run291_13100.amplitude2
+Integral between the limits 1267 and 1279 : 80224 +/- 283.238
+The integral with background substracted is: 57925 +/- 320.181
+
+--------------------------------------------------------------------------------
+
+Processing file: Run294_13400.amplitude2
+Integral between the limits 1267 and 1280 : 68688 +/- 262.084
+The integral with background substracted is: 49074 +/- 297.146
+
+--------------------------------------------------------------------------------
+
+Processing file: Run296_13700.amplitude2
+Integral between the limits 1269 and 1279 : 130066 +/- 360.647
+The integral with background substracted is: 90612 +/- 411.722
+
+--------------------------------------------------------------------------------
+
+Processing file: Run298_14000.amplitude2
+Integral between the limits 1260 and 1291 : 385610 +/- 620.975
+The integral with background substracted is: 177883 +/- 770.273
+
+--------------------------------------------------------------------------------
+
+Processing file: Run300_14300.amplitude2
+Integral between the limits 1264 and 1286 : 184136 +/- 429.111
+The integral with background substracted is: 103153 +/- 514.886
+
+--------------------------------------------------------------------------------
+
+Processing file: Run302_14600.amplitude2
+Integral between the limits 1264 and 1286 : 118830 +/- 344.717
+The integral with background substracted is: 60594 +/- 420.781
+
+--------------------------------------------------------------------------------
+
+Processing file: Run304_14900.amplitude2
+Integral between the limits 1264 and 1286 : 130021 +/- 360.584
+The integral with background substracted is: 63087 +/- 443.783
+
+--------------------------------------------------------------------------------
+
+Processing file: Run324_9200.amplitude2
+Integral between the limits 1266 and 1284 : 180781 +/- 425.183
+The integral with background substracted is: 155424 +/- 454.012
+
+--------------------------------------------------------------------------------
+
+Processing file: Run326_8700.amplitude2
+Integral between the limits 1267 and 1286 : 161977 +/- 402.464
+The integral with background substracted is: 144789 +/- 423.268
+
+--------------------------------------------------------------------------------
+
+Processing file: Run328_8200.amplitude2
+Integral between the limits 1269 and 1280 : 132298 +/- 363.728
+The integral with background substracted is: 123605 +/- 375.478
+
+--------------------------------------------------------------------------------
+
+Processing file: Run330_7700.amplitude2
+Integral between the limits 1266 and 1279 : 111391 +/- 333.753
+The integral with background substracted is: 101562 +/- 348.156
+
+--------------------------------------------------------------------------------
+
+Processing file: Run332_7200.amplitude2
+Integral between the limits 1270 and 1279 : 116359 +/- 341.114
+The integral with background substracted is: 110804 +/- 349.155
+
+--------------------------------------------------------------------------------
+
+Processing file: Run334_6700.amplitude2
+Integral between the limits 1270 and 1278 : 119169 +/- 345.209
+The integral with background substracted is: 115408 +/- 350.607
+
+--------------------------------------------------------------------------------
+
+Processing file: Run336_6200.amplitude2
+Integral between the limits 1268 and 1279 : 60697 +/- 246.368
+The integral with background substracted is: 59845 +/- 248.074
+
+--------------------------------------------------------------------------------
+
+Processing file: Run338_5700.amplitude2
+Integral between the limits 1269 and 1279 : 86116 +/- 293.455
+The integral with background substracted is: 84999 +/- 295.343
+
+--------------------------------------------------------------------------------
+
+Processing file: Run340_5200.amplitude2
+Integral between the limits 1271 and 1279 : 64528 +/- 254.024
+The integral with background substracted is: 63741 +/- 255.56
+
+--------------------------------------------------------------------------------
+
+Processing file: Run342_4700.amplitude2
+Integral between the limits 1270 and 1279 : 31830 +/- 178.41
+The integral with background substracted is: 31380 +/- 179.652
+
+--------------------------------------------------------------------------------
+
+Processing file: Run275_10700.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run275 10.7 34502 55.9349 9286 3.3097 0.0004474336921638 1.03213 cross_section_detector1
+cross section is: 0.0297085
+cross section is (with dead time correction): 0.030663
+
+--------------------------------------------------------------------------------
+
+Processing file: Run277_11000.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run277 11 49417 55.9349 13163 3.3097 0.0004474336921638 1.03929 cross_section_detector1
+cross section is: 0.0300183
+cross section is (with dead time correction): 0.0311977
+
+--------------------------------------------------------------------------------
+
+Processing file: Run279_11300.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run279 11.3 52873 55.9349 13364 3.3097 0.0004474336921638 1.03531 cross_section_detector1
+cross section is: 0.0316346
+cross section is (with dead time correction): 0.0327516
+
+--------------------------------------------------------------------------------
+
+Processing file: Run281_11600.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run281 11.6 52082 55.9349 13494 3.3097 0.0004474336921638 1.03849 cross_section_detector1
+cross section is: 0.0308611
+cross section is (with dead time correction): 0.032049
+
+--------------------------------------------------------------------------------
+
+Processing file: Run283_11900.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run283 11.9 42968 55.9349 10304 3.3097 0.0004474336921638 1.03732 cross_section_detector1
+cross section is: 0.033343
+cross section is (with dead time correction): 0.0345873
+
+--------------------------------------------------------------------------------
+
+Processing file: Run285_12200.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run285 12.2 43191 55.9349 11049 3.3097 0.0004474336921638 1.04277 cross_section_detector1
+cross section is: 0.0312561
+cross section is (with dead time correction): 0.032593
+
+--------------------------------------------------------------------------------
+
+Processing file: Run287_12500.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run287 12.5 50048 55.9349 12419 3.3097 0.0004474336921638 1.04217 cross_section_detector1
+cross section is: 0.0322229
+cross section is (with dead time correction): 0.0335818
+
+--------------------------------------------------------------------------------
+
+Processing file: Run289_12800.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run289 12.8 49026 55.9349 11468 3.3097 0.0004474336921638 1.0409 cross_section_detector1
+cross section is: 0.0341825
+cross section is (with dead time correction): 0.0355806
+
+--------------------------------------------------------------------------------
+
+Processing file: Run291_13100.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run291 13.1 42786 55.9349 10824 3.3097 0.0004474336921638 1.05952 cross_section_detector1
+cross section is: 0.0316067
+cross section is (with dead time correction): 0.0334879
+
+--------------------------------------------------------------------------------
+
+Processing file: Run294_13400.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run294 13.4 32868 55.9349 7438 3.3097 0.0004474336921638 1.03491 cross_section_detector1
+cross section is: 0.0353331
+cross section is (with dead time correction): 0.0365666
+
+--------------------------------------------------------------------------------
+
+Processing file: Run296_13700.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run296 13.7 90330 55.9349 21866 3.3097 0.0004474336921638 1.07913 cross_section_detector1
+cross section is: 0.0330314
+cross section is (with dead time correction): 0.0356452
+
+--------------------------------------------------------------------------------
+
+Processing file: Run298_14000.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run298 14 132653 55.9349 30128 3.3097 0.0004474336921638 1.07889 cross_section_detector1
+cross section is: 0.0352056
+cross section is (with dead time correction): 0.037983
+
+--------------------------------------------------------------------------------
+
+Processing file: Run300_14300.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run300 14.3 74468 55.9349 14891 3.3097 0.0004474336921638 1.05176 cross_section_detector1
+cross section is: 0.0399863
+cross section is (with dead time correction): 0.0420559
+
+--------------------------------------------------------------------------------
+
+Processing file: Run302_14600.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run302 14.6 47673 55.9349 8854 3.3097 0.0004474336921638 1.06163 cross_section_detector1
+cross section is: 0.0430525
+cross section is (with dead time correction): 0.0457058
+
+--------------------------------------------------------------------------------
+
+Processing file: Run304_14900.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run304 14.9 47579 55.9349 8154 3.3097 0.0004474336921638 1.05524 cross_section_detector1
+cross section is: 0.0466562
+cross section is (with dead time correction): 0.0492335
+
+--------------------------------------------------------------------------------
+
+Processing file: Run324_9200.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run324 9.2 96922 55.9349 29239 3.3097 0.0004474336921638 1.04258 cross_section_detector1
+cross section is: 0.0265048
+cross section is (with dead time correction): 0.0276334
+
+--------------------------------------------------------------------------------
+
+Processing file: Run326_8700.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run326 8.7 87489 55.9349 26307 3.3097 0.0004474336921638 1.03168 cross_section_detector1
+cross section is: 0.0265918
+cross section is (with dead time correction): 0.0274342
+
+--------------------------------------------------------------------------------
+
+Processing file: Run328_8200.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run328 8.2 81428 55.9349 23307 3.3097 0.0004474336921638 1.02332 cross_section_detector1
+cross section is: 0.0279352
+cross section is (with dead time correction): 0.0285867
+
+--------------------------------------------------------------------------------
+
+Processing file: Run330_7700.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run330 7.7 68632 55.9349 20557 3.3097 0.0004474336921638 1.01847 cross_section_detector1
+cross section is: 0.0266951
+cross section is (with dead time correction): 0.0271882
+
+--------------------------------------------------------------------------------
+
+Processing file: Run332_7200.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run332 7.2 70918 55.9349 24132 3.3097 0.0004474336921638 1.01396 cross_section_detector1
+cross section is: 0.0234978
+cross section is (with dead time correction): 0.0238259
+
+--------------------------------------------------------------------------------
+
+Processing file: Run334_6700.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run334 6.7 74314 55.9349 23024 3.3097 0.0004474336921638 1.01108 cross_section_detector1
+cross section is: 0.025808
+cross section is (with dead time correction): 0.026094
+
+--------------------------------------------------------------------------------
+
+Processing file: Run336_6200.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run336 6.2 35988 55.9349 12856 3.3097 0.0004474336921638 1.00537 cross_section_detector1
+cross section is: 0.0223829
+cross section is (with dead time correction): 0.0225031
+
+--------------------------------------------------------------------------------
+
+Processing file: Run338_5700.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run338 5.7 52406 55.9349 23873 3.3097 0.0004474336921638 1.00594 cross_section_detector1
+cross section is: 0.0175525
+cross section is (with dead time correction): 0.0176568
+
+--------------------------------------------------------------------------------
+
+Processing file: Run340_5200.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run340 5.2 36119 55.9349 23713 3.3097 0.0004474336921638 1.00288 cross_section_detector1
+cross section is: 0.0121791
+cross section is (with dead time correction): 0.0122141
+
+--------------------------------------------------------------------------------
+
+Processing file: Run342_4700.amplitude1
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run342 4.7 17807 55.9349 18199 3.3097 0.0004474336921638 1.00223 cross_section_detector1
+cross section is: 0.00782363
+cross section is (with dead time correction): 0.00784107
+
+--------------------------------------------------------------------------------
+
+Processing file: Run275_10700.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run275 10.7 52314 55.9349 9286 3.3097 0.0006010000164478 1.05651 cross_section_detector2
+cross section is: 0.0335358
+cross section is (with dead time correction): 0.0354309
+
+--------------------------------------------------------------------------------
+
+Processing file: Run277_11000.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run277 11 72844 55.9349 13163 3.3097 0.0006010000164478 1.07222 cross_section_detector2
+cross section is: 0.0329426
+cross section is (with dead time correction): 0.0353217
+
+--------------------------------------------------------------------------------
+
+Processing file: Run279_11300.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run279 11.3 75296 55.9349 13364 3.3097 0.0006010000164478 1.07934 cross_section_detector2
+cross section is: 0.0335393
+cross section is (with dead time correction): 0.0362004
+
+--------------------------------------------------------------------------------
+
+Processing file: Run281_11600.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run281 11.6 73750 55.9349 13494 3.3097 0.0006010000164478 1.07999 cross_section_detector2
+cross section is: 0.0325342
+cross section is (with dead time correction): 0.0351366
+
+--------------------------------------------------------------------------------
+
+Processing file: Run283_11900.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run283 11.9 60027 55.9349 10304 3.3097 0.0006010000164478 1.09292 cross_section_detector2
+cross section is: 0.0346785
+cross section is (with dead time correction): 0.0379008
+
+--------------------------------------------------------------------------------
+
+Processing file: Run285_12200.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run285 12.2 59622 55.9349 11049 3.3097 0.0006010000164478 1.09989 cross_section_detector2
+cross section is: 0.032122
+cross section is (with dead time correction): 0.0353307
+
+--------------------------------------------------------------------------------
+
+Processing file: Run287_12500.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run287 12.5 69925 55.9349 12419 3.3097 0.0006010000164478 1.08964 cross_section_detector2
+cross section is: 0.033517
+cross section is (with dead time correction): 0.0365214
+
+--------------------------------------------------------------------------------
+
+Processing file: Run289_12800.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run289 12.8 67431 55.9349 11468 3.3097 0.0006010000164478 1.08614 cross_section_detector2
+cross section is: 0.0350019
+cross section is (with dead time correction): 0.0380169
+
+--------------------------------------------------------------------------------
+
+Processing file: Run291_13100.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run291 13.1 57925 55.9349 10824 3.3097 0.0006010000164478 1.13586 cross_section_detector2
+cross section is: 0.0318565
+cross section is (with dead time correction): 0.0361845
+
+--------------------------------------------------------------------------------
+
+Processing file: Run294_13400.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run294 13.4 49074 55.9349 7438 3.3097 0.0006010000164478 1.07594 cross_section_detector2
+cross section is: 0.0392748
+cross section is (with dead time correction): 0.0422574
+
+--------------------------------------------------------------------------------
+
+Processing file: Run296_13700.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run296 13.7 90612 55.9349 21866 3.3097 0.0006010000164478 1.21877 cross_section_detector2
+cross section is: 0.0246681
+cross section is (with dead time correction): 0.0300647
+
+--------------------------------------------------------------------------------
+
+Processing file: Run298_14000.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run298 14 177883 55.9349 30128 3.3097 0.0006010000164478 1.21399 cross_section_detector2
+cross section is: 0.0351466
+cross section is (with dead time correction): 0.0426676
+
+--------------------------------------------------------------------------------
+
+Processing file: Run300_14300.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run300 14.3 103153 55.9349 14891 3.3097 0.0006010000164478 1.13195 cross_section_detector2
+cross section is: 0.0412361
+cross section is (with dead time correction): 0.0466772
+
+--------------------------------------------------------------------------------
+
+Processing file: Run302_14600.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run302 14.6 60594 55.9349 8854 3.3097 0.0006010000164478 1.16437 cross_section_detector2
+cross section is: 0.0407389
+cross section is (with dead time correction): 0.0474351
+
+--------------------------------------------------------------------------------
+
+Processing file: Run304_14900.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run304 14.9 63087 55.9349 8154 3.3097 0.0006010000164478 1.15594 cross_section_detector2
+cross section is: 0.0460562
+cross section is (with dead time correction): 0.0532382
+
+--------------------------------------------------------------------------------
+
+Processing file: Run324_9200.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run324 9.2 155424 55.9349 29239 3.3097 0.0006010000164478 1.07396 cross_section_detector2
+cross section is: 0.0316428
+cross section is (with dead time correction): 0.0339831
+
+--------------------------------------------------------------------------------
+
+Processing file: Run326_8700.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run326 8.7 144789 55.9349 26307 3.3097 0.0006010000164478 1.05678 cross_section_detector2
+cross section is: 0.032763
+cross section is (with dead time correction): 0.0346233
+
+--------------------------------------------------------------------------------
+
+Processing file: Run328_8200.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run328 8.2 123605 55.9349 23307 3.3097 0.0006010000164478 1.03935 cross_section_detector2
+cross section is: 0.0315696
+cross section is (with dead time correction): 0.0328118
+
+--------------------------------------------------------------------------------
+
+Processing file: Run330_7700.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run330 7.7 101562 55.9349 20557 3.3097 0.0006010000164478 1.03375 cross_section_detector2
+cross section is: 0.0294097
+cross section is (with dead time correction): 0.0304023
+
+--------------------------------------------------------------------------------
+
+Processing file: Run332_7200.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run332 7.2 110804 55.9349 24132 3.3097 0.0006010000164478 1.02303 cross_section_detector2
+cross section is: 0.0273326
+cross section is (with dead time correction): 0.0279621
+
+--------------------------------------------------------------------------------
+
+Processing file: Run334_6700.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run334 6.7 115408 55.9349 23024 3.3097 0.0006010000164478 1.01781 cross_section_detector2
+cross section is: 0.0298383
+cross section is (with dead time correction): 0.0303697
+
+--------------------------------------------------------------------------------
+
+Processing file: Run336_6200.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run336 6.2 59845 55.9349 12856 3.3097 0.0006010000164478 1.00858 cross_section_detector2
+cross section is: 0.0277103
+cross section is (with dead time correction): 0.027948
+
+--------------------------------------------------------------------------------
+
+Processing file: Run338_5700.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run338 5.7 84999 55.9349 23873 3.3097 0.0006010000164478 1.0089 cross_section_detector2
+cross section is: 0.0211946
+cross section is (with dead time correction): 0.0213833
+
+--------------------------------------------------------------------------------
+
+Processing file: Run340_5200.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run340 5.2 63741 55.9349 23713 3.3097 0.0006010000164478 1.00409 cross_section_detector2
+cross section is: 0.0160012
+cross section is (with dead time correction): 0.0160666
+
+--------------------------------------------------------------------------------
+
+Processing file: Run342_4700.amplitude2
+RUN Energy photo_peak area, sample area, integrator, areal_density, efficiency1, dead time, outputfile
+Run342 4.7 31380 55.9349 18199 3.3097 0.0006010000164478 1.00311 cross_section_detector2
+cross section is: 0.0102642
+cross section is (with dead time correction): 0.0102961
+
+--------------------------------------------------------------------------------
+
+Processing file: Run275
+Cross section 1: 0.030663 ; Cross section 2: 0.0354309
+Angular cross section is: 0.40616442350568639905
+
+--------------------------------------------------------------------------------
+
+Processing file: Run277
+Cross section 1: 0.0311977 ; Cross section 2: 0.0353217
+Angular cross section is: 0.41006899799723196022
+
+--------------------------------------------------------------------------------
+
+Processing file: Run279
+Cross section 1: 0.0327516 ; Cross section 2: 0.0362004
+Angular cross section is: 0.42664439651612557691
+
+--------------------------------------------------------------------------------
+
+Processing file: Run281
+Cross section 1: 0.032049 ; Cross section 2: 0.0351366
+Angular cross section is: 0.41623636004663590565
+
+--------------------------------------------------------------------------------
+
+Processing file: Run283
+Cross section 1: 0.0345873 ; Cross section 2: 0.0379008
+Angular cross section is: 0.44912104956569187375
+
+--------------------------------------------------------------------------------
+
+Processing file: Run285
+Cross section 1: 0.032593 ; Cross section 2: 0.0353307
+Angular cross section is: 0.42154295659081203258
+
+--------------------------------------------------------------------------------
+
+Processing file: Run287
+Cross section 1: 0.0335818 ; Cross section 2: 0.0365214
+Angular cross section is: 0.43485114424651707384
+
+--------------------------------------------------------------------------------
+
+Processing file: Run289
+Cross section 1: 0.0355806 ; Cross section 2: 0.0380169
+Angular cross section is: 0.45776874319846404085
+
+--------------------------------------------------------------------------------
+
+Processing file: Run291
+Cross section 1: 0.0334879 ; Cross section 2: 0.0361845
+Angular cross section is: 0.43260894225726467552
+
+--------------------------------------------------------------------------------
+
+Processing file: Run294
+Cross section 1: 0.0365666 ; Cross section 2: 0.0422574
+Angular cross section is: 0.48438549862373565180
+
+--------------------------------------------------------------------------------
+
+Processing file: Run296
+Cross section 1: 0.0356452 ; Cross section 2: 0.0300647
+Angular cross section is: 0.42353689452220739226
+
+--------------------------------------------------------------------------------
+
+Processing file: Run298
+Cross section 1: 0.037983 ; Cross section 2: 0.0426676
+Angular cross section is: 0.49778612920778571421
+
+--------------------------------------------------------------------------------
+
+Processing file: Run300
+Cross section 1: 0.0420559 ; Cross section 2: 0.0466772
+Angular cross section is: 0.54869099838500052016
+
+--------------------------------------------------------------------------------
+
+Processing file: Run302
+Cross section 1: 0.0457058 ; Cross section 2: 0.0474351
+Angular cross section is: 0.58191526762398258697
+
+--------------------------------------------------------------------------------
+
+Processing file: Run304
+Cross section 1: 0.0492335 ; Cross section 2: 0.0532382
+Angular cross section is: 0.63619205203407920594
+
+--------------------------------------------------------------------------------
+
+Processing file: Run324
+Cross section 1: 0.0276334 ; Cross section 2: 0.0339831
+Angular cross section is: 0.37500782965024545324
+
+--------------------------------------------------------------------------------
+
+Processing file: Run326
+Cross section 1: 0.0274342 ; Cross section 2: 0.0346233
+Angular cross section is: 0.37617385673300371565
+
+--------------------------------------------------------------------------------
+
+Processing file: Run328
+Cross section 1: 0.0285867 ; Cross section 2: 0.0328118
+Angular cross section is: 0.37770014021048101680
+
+--------------------------------------------------------------------------------
+
+Processing file: Run330
+Cross section 1: 0.0271882 ; Cross section 2: 0.0304023
+Angular cross section is: 0.35570671203289116798
+
+--------------------------------------------------------------------------------
+
+Processing file: Run332
+Cross section 1: 0.0238259 ; Cross section 2: 0.0279621
+Angular cross section is: 0.31748555665546972257
+
+--------------------------------------------------------------------------------
+
+Processing file: Run334
+Cross section 1: 0.026094 ; Cross section 2: 0.0303697
+Angular cross section is: 0.34659713468748083899
+
+--------------------------------------------------------------------------------
+
+Processing file: Run336
+Cross section 1: 0.0225031 ; Cross section 2: 0.027948
+Angular cross section is: 0.30658344900306619637
+
+--------------------------------------------------------------------------------
+
+Processing file: Run338
+Cross section 1: 0.0176568 ; Cross section 2: 0.0213833
+Angular cross section is: 0.23817144839235782895
+
+--------------------------------------------------------------------------------
+
+Processing file: Run340
+Cross section 1: 0.0122141 ; Cross section 2: 0.0160666
+Angular cross section is: 0.17032724368069246013
+
+--------------------------------------------------------------------------------
+
+Processing file: Run342
+Cross section 1: 0.00784107 ; Cross section 2: 0.0102961
+Angular cross section is: 0.10926540252827094303
+
+--------------------------------------------------------------------------------
+
+Section graphs have been generated and saved
+All files have been processed.
