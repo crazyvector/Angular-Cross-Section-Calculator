@@ -17,7 +17,7 @@ The C++ programs can be compiled using: `g++ program_name.cpp -o program_name`
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To run the program, update the input file and then execute: `./run_program.sh in the main folder`.  
-** To store the output in a log file, use: `./run_program.sh > log.txt `**  
+** To store the output in a log file, use: `./run_program.sh > log.txt`**  
 
 To convert raw files, additional programs (`convert.cpp` and `faster2spectra.cpp`) are required but not included in this repository.  
 To run the conversion, copy the program into the desired folder and execute `./conversie.sh` there.  
