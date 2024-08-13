@@ -1,1 +1,5 @@
-In this folder i have all the programs and files necessary to calculate the efficiency of the detector.
+For the energy calibration file, the spectrum to be analyzed and the calibration file containing the main peaks for the analysis must be provided. These files are `calib_det1.txt` and `calib_det2.txt` for the two detectors, respectively.  
+
+Next, the `Det1Calibration.txt` and `Det2Calibration.txt` files need to be generated using the `Integrator.cpp` program from the main folder to analyze each peak individually.  
+
+Subsequently, the `eff_calc.sh` program should be used. For satisfactory results, it is recommended to adjust the parameters at the beginning of the file as needed (e.g., half-life, initial activity, time difference, etc.). The input file must be one of the two previously created and should have the following format: `RUN E A Const sigma_A I Const sigma_I`. The output file is named `Det1Eff.txt` for detector 1 and `Det2Eff.txt` for detector 2 (it can be renamed) and follows this format: `RUN E A sigma_A I sigma_I efficiency sigma_efficiency`. The program automatically propagates errors based on the provided data.
