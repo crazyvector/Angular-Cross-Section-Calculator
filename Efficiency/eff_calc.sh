@@ -4,6 +4,8 @@
 if [ "$#" -ne 2 ]; then
     echo "Error: You must provide exactly 2 arguments."
     echo "Usage: $0 <input_file> <output_file>"
+    echo "input file = Det1Calibration.txt => format: RUN E A Const sigma_A I  Const sigma_I (use Integrator.cpp to analyze area)"
+    echp "output_file = Det1Eff.txt => format: RUN E A sigma_A I sigma_I efficiency sigma_efficiency"
     exit 1
 fi
 
